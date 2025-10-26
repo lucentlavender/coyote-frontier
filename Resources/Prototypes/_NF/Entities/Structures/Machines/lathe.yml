@@ -149,6 +149,7 @@
     - NFEngineeringStructureBoardsStatic
     - NFEngineeringMaterialsStatic
     - NFInflatablesStatic
+    - NFEngineeringArchetypeStatic
     - CSPlumbingStatic # CS - showers, sinks, drains
 
   - type: BlueprintReceiver

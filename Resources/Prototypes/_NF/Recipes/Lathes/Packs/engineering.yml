@@ -47,6 +47,7 @@
   - GasRecyclerMachineCircuitboard
   - PortableScrubberMachineCircuitBoard
   - ThermomachineFreezerMachineCircuitBoard
+  - CondenserMachineCircuitBoard
 
 - type: latheRecipePack
   id: NFEngineeringMaterialsStatic
@@ -57,6 +58,20 @@
   - NFSheetPlasteel1Processed
   - NFSheetUGlass1Processed
   - NFSheetRUGlass1Processed
+
+- type: latheRecipePack
+  id: NFEngineeringArchetypeStatic
+  recipes:
+  - GasMiningDrillMachineCircuitboard
+  - GaslockFrameMachineCircuitboard
+  - RPED
+  - AdvancedCapacitorStockPart
+  - AdvancedMatterBinStockPart
+  - NanoManipulatorStockPart
+  - PowerDrill
+  - JawsOfLife
+  - BorgModuleRCD
+  - BorgModuleAdvancedTool
 
 - type: latheRecipePack
   id: NFEngineeringBoards
@@ -80,10 +95,6 @@
   - ClothingBeltChiefEngineer
   - ClothingShoesBootsMag
   # - FireExtinguisherBluespace # Delta-V
-  - RPED
-  - AdvancedCapacitorStockPart
-  - AdvancedMatterBinStockPart
-  - NanoManipulatorStockPart
   - SuperCapacitorStockPart
   - SuperMatterBinStockPart
   - PicoManipulatorStockPart
