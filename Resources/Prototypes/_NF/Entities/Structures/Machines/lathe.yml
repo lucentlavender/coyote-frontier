@@ -57,6 +57,8 @@
     - NFServiceStatic
     - NFPaperAndPaperAccessories
     - ReportingStatic # DeltaV
+    - NFLightsColoredStatic
+    - NFServiceArchetypeStatic
     - CSPlumbingStatic # CS - showers, sinks, drains
   - type: EmagLatheRecipes
     emagStaticPacks:
@@ -107,6 +109,7 @@
     - NFPaperAndPaperAccessories
     - ReportingStatic # DeltaV
     - NFLightsColoredStatic
+    - NFServiceArchetypeStatic
     - NFMcServiceTechfabStatic
 
 - type: entity
