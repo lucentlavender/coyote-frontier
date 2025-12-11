@@ -3,8 +3,8 @@
 # Discord: @kesiath
 
 # Maintainer Info
-# GitHub: ???
-# Discord: ???
+# GitHub: dustylens
+# Discord: dustylens
 
 # Shuttle Notes:
 #
@@ -23,7 +23,7 @@
   - Chemistry
   - Civilian
   engine:
-  - AME
+  - Bananium
 
 - type: gameMap
   id: Crescent
