@@ -220,3 +220,18 @@ trait-horny-modest-name = Modest
 trait-horny-modest-desc =
     Your character (or you yourself) is kind of modest, or at least likes to present as so.
     You tend to be more approachable and welcoming when it comes to such matters.
+
+trait-scent-vanilla-name = Vanilla
+trait-scent-vanilla-desc = You smell like sweet, soothing vanilla.
+
+trait-scent-citrus-name = Citrus
+trait-scent-citrus-desc = You smell like fresh, zesty citrus.
+
+trait-scent-linen-name = Linen
+trait-scent-linen-desc = You smell like clean, crisp linen.
+
+trait-scent-musk-name = Musk
+trait-scent-musk-desc = You've got a strong, earthy musk scent.
+
+
+

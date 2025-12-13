@@ -1,0 +1,32 @@
+- type: trait
+  id: ScentVanilla
+  name: trait-scent-vanilla-name
+  description: trait-scent-vanilla-desc
+  category: Scents
+  cost: 1
+  scentProto: ScentVanilla
+
+- type: trait
+  id: ScentCitrus
+  name: trait-scent-citrus-name
+  description: trait-scent-citrus-desc
+  category: Scents
+  cost: 1
+  scentProto: ScentCitrus
+
+- type: trait
+  id: ScentLinen
+  name: trait-scent-linen-name
+  description: trait-scent-linen-desc
+  category: Scents
+  cost: 1
+  scentProto: ScentLinen
+
+- type: trait
+  id: ScentMusk
+  name: trait-scent-musk-name
+  description: trait-scent-musk-desc
+  category: Scents
+  cost: 1
+  scentProto: ScentMusk
+
