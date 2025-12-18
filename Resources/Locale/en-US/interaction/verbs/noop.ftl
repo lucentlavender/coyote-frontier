@@ -54,3 +54,50 @@ interaction-WaveAt-success-others-popup = {THE($user)} waves {$hasUsed ->
     [false] at {THE($target)}.
     *[true] {POSS-PRONOUN($user)} {$used} at {THE($target)}.
 }
+
+interaction-Nod-name = Nod
+interaction-Nod-success-self-popup = You nod at {THE($target)}.
+interaction-Nod-success-target-popup = {THE($user)} nods at you.
+interaction-Nod-success-others-popup = {THE($user)} nods at {THE($target)}.
+
+interaction-Decline-name = Decline
+interaction-Decline-success-self-popup = You decline {THE($target)}.
+interaction-Decline-success-target-popup = {THE($user)} declines you.
+interaction-Decline-success-others-popup = {THE($user)} declines {THE($target)}.
+
+interaction-Bow-name = Bow
+interaction-Bow-success-self-popup = You bow to {THE($target)}.
+interaction-Bow-success-target-popup = {THE($user)} bows to you.
+interaction-Bow-success-others-popup = {THE($user)} bows to {THE($target)}.
+
+interaction-Curtsey-name = Curtsey
+interaction-Curtsey-success-self-popup = You curtsey to {THE($target)}.
+interaction-Curtsey-success-target-popup = {THE($user)} curtseys to you.
+interaction-Curtsey-success-others-popup = {THE($user)} curtseys to {THE($target)}.
+
+interaction-Nom-name = Nom
+interaction-Nom-success-self-popup = You nom onto {THE($target)}!
+interaction-Nom-success-target-popup = {THE($user)} noms onto you!
+interaction-Nom-success-others-popup = {THE($user)} noms onto {THE($target)}!
+
+interaction-Blush-name = Blush
+interaction-Blush-success-self-popup = You blush at {THE($target)}!
+interaction-Blush-success-target-popup = {THE($user)} blushes at you!
+interaction-Blush-success-others-popup = {THE($user)} blushes at {THE($target)}!
+
+interaction-BlushSelf-name = Blush
+interaction-BlushSelf-success-self-popup = You blush!
+interaction-BlushSelf-success-target-popup = {THE($user)} blushes!
+interaction-BlushSelf-success-others-popup = {THE($user)} blushes!
+
+interaction-Wink-name = Wink
+interaction-Wink-success-self-popup = You wink at {THE($target)}!
+interaction-Wink-success-target-popup = {THE($user)} winks at you!
+interaction-Wink-success-others-popup = {THE($user)} winks at {THE($target)}!
+
+interaction-WinkSelf-name = Wink
+interaction-WinkSelf-success-self-popup = You wink!
+interaction-WinkSelf-success-target-popup = {THE($user)} winks!
+interaction-WinkSelf-success-others-popup = {THE($user)} winks!
+
+

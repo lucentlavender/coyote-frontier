@@ -78,3 +78,148 @@
   requirement:
     !type:MobStateRequirement # Don't check out a wall
     inverted: true
+
+- type: Interaction
+  id: Nod
+  parent: BaseGlobal
+  priority: 4
+  requiresHands: false
+  requiresCanInteract: false
+  contactInteraction: false
+  allowSelfInteract: false
+  range: {max: 20}
+  categoryKey: interact-sfw
+  effectSuccess:
+    popup: Obvious
+  action:
+    !type:NoOpAction
+
+- type: Interaction
+  id: Decline
+  parent: BaseGlobal
+  priority: 4
+  requiresHands: false
+  requiresCanInteract: false
+  contactInteraction: false
+  allowSelfInteract: false
+  range: {max: 20}
+  categoryKey: interact-sfw
+  effectSuccess:
+    popup: Subtle
+  action:
+    !type:NoOpAction
+
+- type: Interaction
+  id: Bow
+  parent: BaseGlobal
+  priority: 4
+  requiresHands: false
+  requiresCanInteract: false
+  contactInteraction: false
+  allowSelfInteract: false
+  range: {max: 20}
+  categoryKey: interact-sfw
+  effectSuccess:
+    popup: Obvious
+  action:
+    !type:NoOpAction
+
+- type: Interaction
+  id: Curtsey
+  parent: BaseGlobal
+  priority: 4
+  requiresHands: false
+  requiresCanInteract: false
+  contactInteraction: false
+  allowSelfInteract: false
+  range: {max: 20}
+  categoryKey: interact-sfw
+  effectSuccess:
+    popup: Obvious
+  action:
+    !type:NoOpAction
+
+- type: Interaction
+  id: Nom
+  parent: BaseGlobal
+  priority: 4
+  requiresHands: false
+  requiresCanInteract: false
+  contactInteraction: false
+  allowSelfInteract: false
+  range: {max: 20}
+  categoryKey: interact-nsfw
+  effectSuccess:
+    popup: Obvious
+    sound: {path: /Audio/Effects/bite.ogg}
+    soundPerceivedByOthers: true
+  action:
+    !type:NoOpAction
+
+- type: Interaction
+  id: Blush
+  parent: BaseGlobal
+  priority: 4
+  requiresHands: false
+  requiresCanInteract: false
+  contactInteraction: false
+  allowSelfInteract: false
+  range: {max: 20}
+  categoryKey: interact-nsfw
+  effectSuccess:
+    popup: Subtle
+    sound: {path: /Audio/Floof/Lewd/blush.ogg}
+    soundPerceivedByOthers: false
+  action:
+    !type:NoOpAction
+
+- type: Interaction
+  id: BlushSelf
+  parent: SelfInteractionBase
+  priority: 4
+  requiresHands: false
+  requiresCanInteract: false
+  contactInteraction: false
+  allowSelfInteract: true
+  categoryKey: interact-nsfw
+  effectSuccess:
+    popup: Obvious
+    sound: {path: /Audio/Floof/Lewd/blush.ogg}
+    soundPerceivedByOthers: true
+  action:
+    !type:NoOpAction
+
+- type: Interaction
+  id: Wink
+  parent: BaseGlobal
+  priority: 4
+  requiresHands: false
+  requiresCanInteract: false
+  contactInteraction: false
+  allowSelfInteract: false
+  range: {max: 20}
+  categoryKey: interact-nsfw
+  effectSuccess:
+    popup: Subtle
+    sound: {path: /Audio/Floof/Lewd/blush.ogg}
+    soundPerceivedByOthers: false
+  action:
+    !type:NoOpAction
+
+- type: Interaction
+  id: WinkSelf
+  parent: SelfInteractionBase
+  priority: 4
+  requiresHands: false
+  requiresCanInteract: false
+  contactInteraction: false
+  allowSelfInteract: true
+  categoryKey: interact-nsfw
+  effectSuccess:
+    popup: Obvious
+    sound: {path: /Audio/Floof/Lewd/blush.ogg}
+    soundPerceivedByOthers: true
+  action:
+    !type:NoOpAction
+
+
