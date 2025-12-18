@@ -567,9 +567,6 @@ trait-scent-liquor-desc = You smell kinda like Liquor!
 trait-scent-weldingfuel-name = Welding Fuel
 trait-scent-weldingfuel-desc = You smell kinda like Welding Fuel!
 
-trait-scent-oil-name = Oil
-trait-scent-oil-desc = You smell kinda like Oil!
-
 trait-scent-dust-name = Dust
 trait-scent-dust-desc = You smell kinda like Dust!
 
