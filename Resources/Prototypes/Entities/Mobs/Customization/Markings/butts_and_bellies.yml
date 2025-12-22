@@ -439,22 +439,6 @@
     state: butt_pair_4_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/butt.rsi
     state: butt_pair_4_0_MID
-- type: marking
-  id: GenitalButt3
-  bodyPart: Genital
-  markingCategory: Genital
-  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
-  kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
-  layering:
-    butt_pair_4_0_FRONT: Genital
-    butt_pair_4_0_MID: Genital
-  colorLinks:
-    butt_pair_4_0_MID: butt_pair_4_0_FRONT
-  sprites:
-  - sprite: Mobs/Customization/Markings/Genital/butt.rsi
-    state: butt_pair_4_0_FRONT
-  - sprite: Mobs/Customization/Markings/Genital/butt.rsi
-    state: butt_pair_4_0_MID
 
 - type: marking
   id: GenitalButt4
