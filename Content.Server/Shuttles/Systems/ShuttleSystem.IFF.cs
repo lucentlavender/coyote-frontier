@@ -104,11 +104,22 @@ public sealed partial class ShuttleSystem
             if (xform.GridUid != gridUid)
                 continue;
 
+            var flags = comp.Flags;
+            if (IsSolarFlareActive(gridUid))
+            {
+                flags |= IFFFlags.HideLabel;
+            }
+
             _uiSystem.SetUiState(uid, IFFConsoleUiKey.Key, new IFFConsoleBoundUserInterfaceState()
             {
                 AllowedFlags = comp.AllowedFlags,
                 Flags = component.Flags,
             });
         }
+    }
+
+    private bool IsSolarFlareActive(EntityUid GridUid)
+    {
+        return GameTicker.IsGameRuleActive("NFSolarFlare") || GameTicker.IsGameRuleActive("SolarFlare");
     }
 }
