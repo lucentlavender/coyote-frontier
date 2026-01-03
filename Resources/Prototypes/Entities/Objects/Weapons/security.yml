@@ -92,7 +92,6 @@
     - Security
     # - Antagonists # Frontier: guidebook entry removed
 
-    # Coyote: Added NFSD/Security Version of Stun Baton
 - type: entity
   name: security stun baton
   parent: [BaseItem, Class3Meta] # Coyote: Class3Meta Contraband, OOCly should not be looted.
