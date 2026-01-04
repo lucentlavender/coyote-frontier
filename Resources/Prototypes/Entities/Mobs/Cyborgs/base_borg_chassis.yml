@@ -334,7 +334,7 @@
 
 - type: entity
   id: BaseBorgChassisSyndicate
-  parent: BaseBorgChassis
+  parent: [ BaseBorgChassis, BaseC3SyndicateContraband ] # Coyote: Syndicate borgs are contra & have uplink exchange value
   abstract: true
   components:
   - type: NpcFactionMember
