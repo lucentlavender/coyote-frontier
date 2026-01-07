@@ -296,57 +296,40 @@ public sealed partial class ShuttleSystem
             {
                 continue;
             }
-            HashSet<Entity<ShuttleConsoleComponent>> cronsoles = new();
-            _lookup.GetChildEntities(mygrid ?? uid, cronsoles);
+
             // is the shuttle present in the list of player ships with people on them?
-            if (!whereIsEveryone.Contains(shuttle))
+            if (whereIsEveryone.Contains(mygrid.Value))
             {
-                EngageEmergencyBrake(
-                    uid,
-                    shuttle,
-                    cronsoles,
-                    quietly); // no need to emergency brake, people are on it
-                continue;
+                continue; // people are on it, no need to emergency brake
             }
+
             // find all the shuttle consoles on this shuttle
-            if (cronsoles.Count == 0)
+            var consolesQuery = EntityQueryEnumerator<ShuttleConsoleComponent, TransformComponent>();
+            var cronsoles = new HashSet<Entity<ShuttleConsoleComponent>>();
+            while (consolesQuery.MoveNext(out var consoleUid, out var consoleComp, out var consoleXform))
             {
-                EngageEmergencyBrake(
-                    uid,
-                    shuttle,
-                    cronsoles,
-                    quietly); // no powered consoles, emergency brake
-                continue;
+                if (consoleXform.GridUid == mygrid)
+                {
+                    cronsoles.Add((consoleUid, consoleComp));
+                }
             }
-            // check if any of the shuttle consoles are powered
-            var poweredFound = false;
-            foreach (var console in cronsoles)
-            {
-                var consoleEntity = console.Owner;
-                if (!this.IsPowered(consoleEntity, EntityManager))
-                    continue;
-                poweredFound = true;
-                break; // at least one console is powered, no need to emergency brake
-            }
-            if (!poweredFound)
-            {
-                EngageEmergencyBrake(
-                    uid,
-                    shuttle,
-                    cronsoles,
-                    quietly); // no powered consoles, emergency brake
-                continue;
-            }
+
+            // No people on board and shuttle is moving - engage emergency brake!
+            EngageEmergencyBrake(
+                uid,
+                shuttle,
+                cronsoles,
+                quietly);
         }
     }
 
     /// <summary>
-    /// Returns a dictionary of:
-    /// Shuttle UIDs where: it is a player shuttle, and players are inside, and at least one player is alive.
+    /// Returns a HashSet of:
+    /// Shuttle EntityUids where: it is a player shuttle, and players are inside, and at least one player is alive.
     /// </summary>
-    private List<ShuttleComponent> GetPlayerShipsWithPeopleOnThem()
+    private HashSet<EntityUid> GetPlayerShipsWithPeopleOnThem()
     {
-        var whereDict = new List<ShuttleComponent>(); // awoo
+        var whereDict = new HashSet<EntityUid>(); // awoo
         foreach (var sesh in _players.Sessions)
         {
             // Get the player entity
@@ -376,7 +359,7 @@ public sealed partial class ShuttleSystem
                 // Log.Debug($"Skipping for E-Brake: Player session {sesh.Name} ({sesh.UserId}) is not on a player shuttle.");
                 continue;
             }
-            whereDict.Add(shuttle);
+            whereDict.Add(transform.GridUid.Value);
         }
         return whereDict;
     }

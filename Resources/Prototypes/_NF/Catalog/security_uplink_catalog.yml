@@ -180,7 +180,7 @@
   id: UplinkSecurityStunbaton
   name:  uplink-security-stunbaton-name
   description: uplink-security-stunbaton-desc
-  productEntity: Stunbaton
+  productEntity: SecStunbaton # Coyote: Stunbaton<SecStunbaton
   icon: { sprite: Objects/Weapons/Melee/stunbaton.rsi, state: stunbaton_off }
   cost:
     FrontierUplinkCoin: 1
@@ -532,9 +532,9 @@
 #region magazines
 - type: listing
   id: UplinkSecurityMagazineHighCapacityPistol35Overpressure
-  name:  uplink-security-magazinepistol-name
-  description: uplink-security-magazinepistol-desc
-  productEntity: NFBoxMagazineHighCapacityPistol35Overpressure
+  name:  uplink-security-magazinepistol-40-name # Coyote uplink-security-magazinepistol-name < uplink-security-magazinepistol-40-name
+  description: uplink-security-magazinepistol-40-desc # Coyote uplink-security-magazinepistol-desc < uplink-security-magazinepistol-40-desc
+  productEntity: CSBoxMagazinePistol40Overpressure # Coyote .40 conversion
   icon: { sprite: _NF/Objects/Storage/boxes.rsi, state: icon-magazine }
   cost:
     FrontierUplinkCoin: 1
@@ -596,9 +596,9 @@
 
 - type: listing
   id: UplinkSecurityPistolMagazineRubber
-  name:  uplink-security-magazinepistol-rubber-name
-  description: uplink-security-magazinepistol-rubber-desc
-  productEntity: NFBoxMagazinePistol35Rubber
+  name:  uplink-security-magazinepistol-rubber-40-name # Coyote uplink-security-magazinepistol-rubber-name < uplink-security-magazinepistol-rubber-40-name
+  description: uplink-security-magazinepistol-rubber-40-desc # Coyote uplink-security-magazinepistol-rubber-desc < uplink-security-magazinepistol-rubber-40-desc
+  productEntity: CSBoxMagazinePistol40Rubber
   icon: { sprite: _NF/Objects/Storage/boxes.rsi, state: icon-magazine }
   cost:
     FrontierUplinkCoin: 1

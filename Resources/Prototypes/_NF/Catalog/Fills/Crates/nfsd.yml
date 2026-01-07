@@ -30,7 +30,7 @@
     contents:
       - id: NFWeaponEnergyPistolDisabler
         amount: 3
-      - id: Stunbaton
+      - id: SecStunbaton # Coyote: Stunbaton<SecStunbaton
         amount: 3
       - id: BoxFlashbang
       - id: Flash

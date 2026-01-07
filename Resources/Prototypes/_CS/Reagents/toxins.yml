@@ -336,7 +336,7 @@
         damage:
           types:
             Poison: 3.5
-            Bloodloss: -0.5
+            Bloodloss: -3
       - !type:ModifyBloodLevel
         amount: 1
 

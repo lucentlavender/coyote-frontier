@@ -43,7 +43,7 @@
     contents:
       - id: GrenadeFlashBang
       - id: TearGasGrenade
-      - id: Stunbaton
+      - id: SecStunbaton # Coyote: Stunbaton<SecStunbaton
       - id: Handcuffs
       - id: Handcuffs
 

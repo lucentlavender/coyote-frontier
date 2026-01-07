@@ -19,11 +19,11 @@
   id: Oxidant
   reactants:
     Iron:
-      amount: 1
+      amount: 2
     Oil:
       amount: 1
   products:
-    Oxidant: 1
+    Oxidant: 3
 
 - type: reaction
   id: Sylexalin
@@ -35,28 +35,26 @@
     Dexalin:
       amount: 1
   products:
-    Sylexalin: 1
+    Sylexalin: 3
 
 - type: reaction
   id: Sylashizine
   reactants:
     Leporazine:
       amount: 1
-    Oil:
+    Ethanol:
       amount: 1
   products:
-    Sylashizine: 1
+    Sylashizine: 2
 
 - type: reaction
   id: Autosolder
   reactants:
     Aluminium:
       amount: 1
-    Oil:
-      amount: 1
     Fersilicite:
       amount: 1
-    Silicon:
+    Gold:
       amount: 1
   products:
-    Autosolder: 1
+    Autosolder: 3

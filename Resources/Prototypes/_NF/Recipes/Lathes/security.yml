@@ -715,7 +715,7 @@
   id: NFZipties
 
 - type: latheRecipe
-  parent: Stunbaton
+  parent: SecStunbaton # Coyote Stunbaton<SecStunbaton
   id: NFStunbaton
 
 - type: latheRecipe

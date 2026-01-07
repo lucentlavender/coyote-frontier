@@ -902,7 +902,7 @@
 - type: entity
   id: XenoArtifactAngryCarpSpawn
   parent: BaseXenoArtifactEffect
-  description: Create hostile fish
+  description: Create hostile fauna # Coyote
   categories: [ HideSpawnMenu ] # Frontier
   components:
   - type: XenoArtifactNode
@@ -919,9 +919,17 @@
       table: !type:GroupSelector
         children:
         - id: MobCarpMagic
-          weight: 1.0
+          # weight: 1.0 # Coyote
         - id: MobCarpHolo
-          weight: 1.0
+          # weight: 1.0 # Coyote
+        - id: MobAdultSlimesYellowAngry # Coyote
+        - id: MobAngryBee # Coyote
+        - id: MobBearSpace # Coyote
+        - id: MobXenoRavager # Coyote
+        - id: MobTick # Coyote
+        - id: MobSpiderSpace # Coyote
+        - id: MobPurpleSnake # Coyote
+        - id: MobKangarooSpace # Coyote
 
 - type: entity
   id: XenoArtifactFaunaSpawn
@@ -942,15 +950,15 @@
       deleteSpawnerAfterSpawn: false
       table: !type:GroupSelector
         children:
-        - id: MobAdultSlimesYellowAngry
-        - id: MobAngryBee
-        - id: MobBearSpace
-        - id: MobXenoRavager
-        - id: MobTick
-        - id: MobSpiderSpace
-        - id: MobPurpleSnake
+        # - id: MobAdultSlimesYellowAngry # Coyote
+        # - id: MobAngryBee # Coyote
+        # - id: MobBearSpace # Coyote
+        # - id: MobXenoRavager # Coyote
+        # - id: MobTick # Coyote
+        # - id: MobSpiderSpace # Coyote
+        # - id: MobPurpleSnake # Coyote
         - id: MobMouse
-        - id: MobKangarooSpace
+        # - id: MobKangarooSpace # Coyote
         - id: MobPig
         - id: MobParrot
         - id: MobKangaroo

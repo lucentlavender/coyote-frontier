@@ -159,7 +159,7 @@
   - type: SolutionContainerVisuals
     maxFillLevels: 1
     changeColor: false
-    emptySpriteName: robo0
+    emptySpriteName: robor0
   - type: Hypospray
     solutionName: pen
     transferAmount: 15

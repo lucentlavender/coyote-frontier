@@ -1,0 +1,8 @@
+- type: loadoutGroup
+  id: NurseBelt
+  name: loadout-group-contractor-belt
+  minLimit: 0
+  loadouts:
+  - MercenaryClothingBeltMilitaryWebbingMed
+  subgroups:
+  - ContractorBelt

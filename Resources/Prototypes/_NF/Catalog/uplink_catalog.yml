@@ -2,8 +2,8 @@
 # Guns
 - type: listing
   id: UplinkNFPistolViper
-  name: uplink-pistol-viper-name
-  description: uplink-pistol-viper-desc
+  name: uplink-pistol-viper-40-name # Coyote uplink-pistol-viper-name < uplink-pistol-viper-40-name
+  description: uplink-pistol-viper-40-desc # Coyote uplink-pistol-viper-desc < uplink-pistol-viper-40-desc
   productEntity: NFWeaponPistolViper
   discountCategory: rareDiscounts
   cost:
@@ -46,10 +46,10 @@
 # Ammo
 - type: listing
   id: UplinkNFPistol9mmMagazine
-  name: uplink-pistol-magazine-name
-  description: uplink-pistol-magazine-desc
-  icon: { sprite: /Textures/Objects/Weapons/Guns/Ammunition/Magazine/Pistol/pistol_mag.rsi, state: red-icon }
-  productEntity: NFMagazinePistol35
+  name: uplink-pistol-magazine-40-name # Coyote: uplink-pistol-magazine-name < uplink-pistol-magazine-40-name
+  description: uplink-pistol-magazine-40-desc # Coyote: uplink-pistol-magazine-desc < uplink-pistol-magazine-40-desc
+  icon: { sprite: /Textures/_CS/Objects/Weapons/Guns/Ammunition/Magazine/Pistol40/pistol_mag.rsi, state: icon } # Coyote: /Textures/Objects/Weapons/Guns/Ammunition/Magazine/Pistol/pistol_mag.rsi, state: red-icon  < /Textures/_CS/Objects/Weapons/Guns/Ammunition/Magazine/Pistol40/pistol_mag.rsi, state: icon
+  productEntity: CSMagazinePistol40 # Coyote: .40 conversion
   cost:
     Telecrystal: 1
   categories:
@@ -57,10 +57,10 @@
 
 - type: listing
   id: UplinkNFMagazinePistolSubMachineGun
-  name: uplink-pistol-magazine-c20r-name
-  description: uplink-pistol-magazine-c20r-desc
-  icon: { sprite: /Textures/Objects/Weapons/Guns/Ammunition/Magazine/Pistol/smg_mag.rsi, state: red-icon }
-  productEntity: NFMagazineSubMachineGun35
+  name: uplink-pistol-magazine-c20r-40-name # Coyote uplink-pistol-magazine-c20r-name > uplink-pistol-magazine-c20r-40-name
+  description: uplink-pistol-magazine-c20r-40-desc # Coyote uplink-pistol-magazine-c20r-desc > uplink-pistol-magazine-c20r-40-desc
+  icon: { sprite: /Textures/_CS/Objects/Weapons/Guns/Ammunition/Magazine/Pistol40/smg_mag.rsi, state: icon } # Coyote: /Textures/Objects/Weapons/Guns/Ammunition/Magazine/Pistol/smg_mag.rsi, state: red-icon  < /Textures/_CS/Objects/Weapons/Guns/Ammunition/Magazine/Pistol40/smg_mag.rsi, state: icon
+  productEntity: CSMagazineSubMachineGun40 # Coyote: .40 conversion
   cost:
     Telecrystal: 2
   categories:

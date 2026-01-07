@@ -23,7 +23,8 @@
     - Resomi
     # Den addition
     - Ovinia
-    - Chitinid # DeltaV
+    - Chitinid # DeltaV # DeltaV
+    - Tajaran # EE
 
 - type: guideEntry
   id: Arachnid
@@ -80,3 +81,8 @@
   id: Resomi
   name: species-name-resomi
   text: "/ServerInfo/Guidebook/Mobs/Resomi.xml"
+
+- type: guideEntry
+  id: Tajaran
+  name: species-name-tajaran
+  text: "/ServerInfo/Guidebook/Mobs/Tajaran.xml"
