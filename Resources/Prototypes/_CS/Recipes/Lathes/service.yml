@@ -29,7 +29,7 @@
      Cloth: 100
 
 - type: latheRecipe
-  parent: NFBaseHatRecipe
+  parent: BaseHatRecipe
   id: ClothingHeadHatDonkcoHat
   result: ClothingHeadHatDonkcoHat
   materials:
