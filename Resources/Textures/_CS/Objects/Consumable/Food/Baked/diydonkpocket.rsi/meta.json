@@ -8,22 +8,13 @@
     },
     "states": [
         {
-            "name": "bbq"
-        },
-        {
-            "name": "banana"
+            "name": "banana
         },
         {
             "name": "banana_split"
         },
         {
-            "name": "chocolate"
-        },
-        {
-            "name": "teriyaki"
-        },
-        {
-            "name": "maple"
+            "name": "bbq"
         },
         {
             "name": "berry"
@@ -32,25 +23,31 @@
             "name": "cherry"
         },
         {
+            "name": "chocolate"
+        },
+        {
             "name": "dank"
         },
         {
-            "name": "orange"
+            "name": "honey"
         },
         {
             "name": "moth"
         },
         {
-            "name": "spicy"
-        },
-        {
-            "name": "honey"
+            "name": "orange"
         },
         {
             "name": "pizza"
         },
         {
             "name": "plain"
+        },
+        {
+            "name": "spicy"
+        },
+        {
+            "name": "teriyaki"
         }
     ]
 }
