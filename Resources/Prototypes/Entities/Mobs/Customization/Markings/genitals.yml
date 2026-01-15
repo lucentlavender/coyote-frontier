@@ -3,6 +3,7 @@
   id: Genital-Balls-Single1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/balls.rsi
@@ -12,6 +13,7 @@
   id: Genital-Balls-Single2
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/balls.rsi
@@ -21,6 +23,7 @@
   id: Genital-Balls-Single2Alt
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/balls.rsi
@@ -30,6 +33,7 @@
   id: Genital-Balls-Single3
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/balls.rsi
@@ -39,6 +43,7 @@
   id: Genital-Balls-Single4
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/balls.rsi
@@ -48,6 +53,7 @@
   id: Genital-Balls-Single4Alt
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/balls.rsi
@@ -57,6 +63,7 @@
   id: Genital-Balls-Single5
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/balls.rsi
@@ -66,6 +73,7 @@
   id: Genital-Balls-Single5Alt
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/balls.rsi
@@ -76,6 +84,7 @@
   id: Genital-Balls-Small1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/balls.rsi
@@ -85,6 +94,7 @@
   id: Genital-Balls-Small2
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/balls.rsi
@@ -94,6 +104,7 @@
   id: Genital-Balls-Small3
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/balls.rsi
@@ -104,6 +115,7 @@
   id: Genital-Balls-Sheath1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/balls.rsi
@@ -113,6 +125,7 @@
   id: Genital-Balls-Sheath1Alt
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/balls.rsi
@@ -122,6 +135,7 @@
   id: Genital-Balls-Sheath2
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/balls.rsi
@@ -131,6 +145,7 @@
   id: Genital-Balls-Sheath2Alt
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/balls.rsi
@@ -140,6 +155,7 @@
   id: Genital-Balls-Sheath3
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/balls.rsi
@@ -149,6 +165,7 @@
   id: Genital-Balls-Sheath3Alt
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/balls.rsi
@@ -158,6 +175,7 @@
   id: Genital-Balls-Sheath4
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/balls.rsi
@@ -167,6 +185,7 @@
   id: Genital-Balls-Sheath4Alt
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/balls.rsi
@@ -176,6 +195,7 @@
   id: Genital-Balls-Sheath5
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/balls.rsi
@@ -185,6 +205,7 @@
   id: Genital-Balls-Sheath5Alt
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/balls.rsi
@@ -195,6 +216,7 @@
   id: GenitalVaginaHuman
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/vagina.rsi
@@ -204,6 +226,7 @@
   id: GenitalVaginaHumanAlt
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/vagina.rsi
@@ -213,6 +236,7 @@
   id: GenitalVaginaHumanSmall
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/vagina.rsi
@@ -222,6 +246,7 @@
   id: GenitalVaginaHumanSmallAlt
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/vagina.rsi
@@ -232,6 +257,7 @@
   id: GenitalVaginaGaping
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/vagina.rsi
@@ -241,6 +267,7 @@
   id: GenitalVaginaGapingAlt
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/vagina.rsi
@@ -250,6 +277,7 @@
   id: GenitalVaginaGapingSmall
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/vagina.rsi
@@ -259,6 +287,7 @@
   id: GenitalVaginaGapingSmallAlt
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/vagina.rsi
@@ -269,6 +298,7 @@
   id: GenitalVaginaTentacle
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/vagina.rsi
@@ -278,6 +308,7 @@
   id: GenitalVaginaTentacleAlt
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/vagina.rsi
@@ -287,6 +318,7 @@
   id: GenitalVaginaTentacleSmall
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/vagina.rsi
@@ -296,6 +328,7 @@
   id: GenitalVaginaTentacleSmallAlt
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/vagina.rsi
@@ -306,6 +339,7 @@
   id: GenitalVaginaDentata
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/vagina.rsi
@@ -315,6 +349,7 @@
   id: GenitalVaginaHairy
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/vagina.rsi
@@ -324,6 +359,7 @@
   id: GenitalVaginaFurred
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/vagina.rsi
@@ -333,6 +369,7 @@
   id: GenitalVaginaSpade
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/vagina.rsi
@@ -343,6 +380,7 @@
   id: GenitalBreastsRoundA
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
@@ -352,6 +390,7 @@
   id: GenitalBreastsRoundB
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
@@ -361,6 +400,7 @@
   id: GenitalBreastsRoundC
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
@@ -370,6 +410,7 @@
   id: GenitalBreastsRoundD
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pairround_d_0_FRONT: Genital
@@ -386,6 +427,7 @@
   id: GenitalBreastsRoundE
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pairround_e_0_FRONT: Genital
@@ -402,6 +444,7 @@
   id: GenitalBreastsRoundF
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pairround_f_0_FRONT: Genital
@@ -418,6 +461,7 @@
   id: GenitalBreastsRoundG
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pairround_g_0_FRONT: Genital
@@ -434,6 +478,7 @@
   id: GenitalBreastsRoundH
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pairround_h_0_FRONT: Genital
@@ -450,6 +495,7 @@
   id: GenitalBreastsRoundI
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pairround_i_0_FRONT: Genital
@@ -466,6 +512,7 @@
   id: GenitalBreastsRoundJ
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pairround_j_0_FRONT: Genital
@@ -482,6 +529,7 @@
   id: GenitalBreastsRoundK
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pairround_k_0_FRONT: Genital
@@ -498,6 +546,7 @@
   id: GenitalBreastsRoundL
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pairround_l_0_FRONT: Genital
@@ -514,6 +563,7 @@
   id: GenitalBreastsRoundM
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pairround_m_0_FRONT: Genital
@@ -530,6 +580,7 @@
   id: GenitalBreastsRoundN
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pairround_n_0_FRONT: Genital
@@ -546,6 +597,7 @@
   id: GenitalBreastsRoundO
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pairround_o_0_FRONT: Genital
@@ -562,6 +614,7 @@
   id: GenitalBreastsRoundMassive
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pairround_massive_0_FRONT: Genital
@@ -578,6 +631,7 @@
   id: GenitalBreastsRoundGiga
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pairround_giga_0_FRONT: Genital
@@ -594,6 +648,7 @@
   id: GenitalBreastsRoundImpossible
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pairround_impossible_0_FRONT: Genital
@@ -611,6 +666,7 @@
   id: GenitalBreastsRoundSkintonedA
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
@@ -620,6 +676,7 @@
   id: GenitalBreastsRoundSkintonedB
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
@@ -629,6 +686,7 @@
   id: GenitalBreastsRoundSkintonedC
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
@@ -638,6 +696,7 @@
   id: GenitalBreastsRoundSkintonedD
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pairround_d_s_0_FRONT: Genital
@@ -654,6 +713,7 @@
   id: GenitalBreastsRoundSkintonedE
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pairround_e_s_0_FRONT: Genital
@@ -670,6 +730,7 @@
   id: GenitalBreastsRoundSkintonedF
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pairround_f_s_0_FRONT: Genital
@@ -686,6 +747,7 @@
   id: GenitalBreastsRoundSkintonedG
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pairround_g_s_0_FRONT: Genital
@@ -702,6 +764,7 @@
   id: GenitalBreastsRoundSkintonedH
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pairround_h_s_0_FRONT: Genital
@@ -718,6 +781,7 @@
   id: GenitalBreastsRoundSkintonedI
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pairround_i_s_0_FRONT: Genital
@@ -734,6 +798,7 @@
   id: GenitalBreastsRoundSkintonedJ
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pairround_j_s_0_FRONT: Genital
@@ -750,6 +815,7 @@
   id: GenitalBreastsRoundSkintonedK
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pairround_k_s_0_FRONT: Genital
@@ -766,6 +832,7 @@
   id: GenitalBreastsRoundSkintonedL
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pairround_l_s_0_FRONT: Genital
@@ -782,6 +849,7 @@
   id: GenitalBreastsRoundSkintonedM
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pairround_m_s_0_FRONT: Genital
@@ -798,6 +866,7 @@
   id: GenitalBreastsRoundSkintonedN
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pairround_n_s_0_FRONT: Genital
@@ -814,6 +883,7 @@
   id: GenitalBreastsRoundSkintonedO
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pairround_o_s_0_FRONT: Genital
@@ -830,6 +900,7 @@
   id: GenitalBreastsRoundSkintonedMassive
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pairround_massive_s_0_FRONT: Genital
@@ -846,6 +917,7 @@
   id: GenitalBreastsRoundSkintonedGiga
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pairround_giga_s_0_FRONT: Genital
@@ -862,6 +934,7 @@
   id: GenitalBreastsRoundSkintonedImpossible
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pairround_impossible_s_0_FRONT: Genital
@@ -880,6 +953,7 @@
   id: GenitalBreastsPairA
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
@@ -889,6 +963,7 @@
   id: GenitalBreastsPairB
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
@@ -898,6 +973,7 @@
   id: GenitalBreastsPairC
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
@@ -907,6 +983,7 @@
   id: GenitalBreastsPairD
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pair_d_0_FRONT: Genital
@@ -923,6 +1000,7 @@
   id: GenitalBreastsPairE
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pair_e_0_FRONT: Genital
@@ -939,6 +1017,7 @@
   id: GenitalBreastsPairF
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pair_f_0_FRONT: Genital
@@ -955,6 +1034,7 @@
   id: GenitalBreastsPairG
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pair_g_0_FRONT: Genital
@@ -971,6 +1051,7 @@
   id: GenitalBreastsPairH
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pair_h_0_FRONT: Genital
@@ -987,6 +1068,7 @@
   id: GenitalBreastsPairI
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pair_i_0_FRONT: Genital
@@ -1003,6 +1085,7 @@
   id: GenitalBreastsPairJ
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pair_j_0_FRONT: Genital
@@ -1019,6 +1102,7 @@
   id: GenitalBreastsPairK
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pair_k_0_FRONT: Genital
@@ -1035,6 +1119,7 @@
   id: GenitalBreastsPairL
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pair_l_0_FRONT: Genital
@@ -1051,6 +1136,7 @@
   id: GenitalBreastsPairM
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pair_m_0_FRONT: Genital
@@ -1067,6 +1153,7 @@
   id: GenitalBreastsPairN
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pair_n_0_FRONT: Genital
@@ -1083,6 +1170,7 @@
   id: GenitalBreastsPairO
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pair_o_0_FRONT: Genital
@@ -1099,6 +1187,7 @@
   id: GenitalBreastsPairMassive
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pair_massive_0_FRONT: Genital
@@ -1115,6 +1204,7 @@
   id: GenitalBreastsPairGiga
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pair_giga_0_FRONT: Genital
@@ -1131,6 +1221,7 @@
   id: GenitalBreastsPairImpossible
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pair_impossible_0_FRONT: Genital
@@ -1148,6 +1239,7 @@
   id: GenitalBreastsPairSkintonedA
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
@@ -1157,6 +1249,7 @@
   id: GenitalBreastsPairSkintonedB
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
@@ -1166,6 +1259,7 @@
   id: GenitalBreastsPairSkintonedC
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
@@ -1175,6 +1269,7 @@
   id: GenitalBreastsPairSkintonedD
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pair_d_s_0_FRONT: Genital
@@ -1191,6 +1286,7 @@
   id: GenitalBreastsPairSkintonedE
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pair_e_s_0_FRONT: Genital
@@ -1207,6 +1303,7 @@
   id: GenitalBreastsPairSkintonedF
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pair_f_s_0_FRONT: Genital
@@ -1223,6 +1320,7 @@
   id: GenitalBreastsPairSkintonedG
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pair_g_s_0_FRONT: Genital
@@ -1239,6 +1337,7 @@
   id: GenitalBreastsPairSkintonedH
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pair_h_s_0_FRONT: Genital
@@ -1255,6 +1354,7 @@
   id: GenitalBreastsPairSkintonedI
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pair_i_s_0_FRONT: Genital
@@ -1271,6 +1371,7 @@
   id: GenitalBreastsPairSkintonedJ
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pair_j_s_0_FRONT: Genital
@@ -1287,6 +1388,7 @@
   id: GenitalBreastsPairSkintonedK
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pair_k_s_0_FRONT: Genital
@@ -1303,6 +1405,7 @@
   id: GenitalBreastsPairSkintonedL
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pair_l_s_0_FRONT: Genital
@@ -1319,6 +1422,7 @@
   id: GenitalBreastsPairSkintonedM
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pair_m_s_0_FRONT: Genital
@@ -1335,6 +1439,7 @@
   id: GenitalBreastsPairSkintonedN
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pair_n_s_0_FRONT: Genital
@@ -1351,6 +1456,7 @@
   id: GenitalBreastsPairSkintonedO
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pair_o_s_0_FRONT: Genital
@@ -1367,6 +1473,7 @@
   id: GenitalBreastsPairSkintonedMassive
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pair_massive_s_0_FRONT: Genital
@@ -1383,6 +1490,7 @@
   id: GenitalBreastsPairSkintonedGiga
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pair_giga_s_0_FRONT: Genital
@@ -1399,6 +1507,7 @@
   id: GenitalBreastsPairSkintonedImpossible
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_pair_impossible_s_0_FRONT: Genital
@@ -1416,6 +1525,7 @@
   id: GenitalBreastsQuadA
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
@@ -1425,6 +1535,7 @@
   id: GenitalBreastsQuadB
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
@@ -1434,6 +1545,7 @@
   id: GenitalBreastsQuadC
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
@@ -1443,6 +1555,7 @@
   id: GenitalBreastsQuadD
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quad_d_0_FRONT: Genital
@@ -1459,6 +1572,7 @@
   id: GenitalBreastsQuadE
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quad_e_0_FRONT: Genital
@@ -1475,6 +1589,7 @@
   id: GenitalBreastsQuadF
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quad_f_0_FRONT: Genital
@@ -1491,6 +1606,7 @@
   id: GenitalBreastsQuadG
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quad_g_0_FRONT: Genital
@@ -1507,6 +1623,7 @@
   id: GenitalBreastsQuadH
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quad_h_0_FRONT: Genital
@@ -1523,6 +1640,7 @@
   id: GenitalBreastsQuadI
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quad_i_0_FRONT: Genital
@@ -1539,6 +1657,7 @@
   id: GenitalBreastsQuadJ
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quad_j_0_FRONT: Genital
@@ -1555,6 +1674,7 @@
   id: GenitalBreastsQuadK
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quad_k_0_FRONT: Genital
@@ -1571,6 +1691,7 @@
   id: GenitalBreastsQuadL
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quad_l_0_FRONT: Genital
@@ -1587,6 +1708,7 @@
   id: GenitalBreastsQuadM
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quad_m_0_FRONT: Genital
@@ -1603,6 +1725,7 @@
   id: GenitalBreastsQuadN
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quad_n_0_FRONT: Genital
@@ -1619,6 +1742,7 @@
   id: GenitalBreastsQuadO
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quad_o_0_FRONT: Genital
@@ -1635,6 +1759,7 @@
   id: GenitalBreastsQuadMassive
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quad_massive_0_FRONT: Genital
@@ -1651,6 +1776,7 @@
   id: GenitalBreastsQuadGiga
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quad_giga_0_FRONT: Genital
@@ -1667,6 +1793,7 @@
   id: GenitalBreastsQuadImpossible
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quad_impossible_0_FRONT: Genital
@@ -1684,6 +1811,7 @@
   id: GenitalBreastsQuadSkintonedA
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
@@ -1693,6 +1821,7 @@
   id: GenitalBreastsQuadSkintonedB
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
@@ -1702,6 +1831,7 @@
   id: GenitalBreastsQuadSkintonedC
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
@@ -1711,6 +1841,7 @@
   id: GenitalBreastsQuadSkintonedD
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quad_d_s_0_FRONT: Genital
@@ -1727,6 +1858,7 @@
   id: GenitalBreastsQuadSkintonedE
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quad_e_s_0_FRONT: Genital
@@ -1743,6 +1875,7 @@
   id: GenitalBreastsQuadSkintonedF
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quad_f_s_0_FRONT: Genital
@@ -1759,6 +1892,7 @@
   id: GenitalBreastsQuadSkintonedG
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quad_g_s_0_FRONT: Genital
@@ -1775,6 +1909,7 @@
   id: GenitalBreastsQuadSkintonedH
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quad_h_s_0_FRONT: Genital
@@ -1791,6 +1926,7 @@
   id: GenitalBreastsQuadSkintonedI
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quad_i_s_0_FRONT: Genital
@@ -1807,6 +1943,7 @@
   id: GenitalBreastsQuadSkintonedJ
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quad_j_s_0_FRONT: Genital
@@ -1823,6 +1960,7 @@
   id: GenitalBreastsQuadSkintonedK
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quad_k_s_0_FRONT: Genital
@@ -1839,6 +1977,7 @@
   id: GenitalBreastsQuadSkintonedL
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quad_l_s_0_FRONT: Genital
@@ -1855,6 +1994,7 @@
   id: GenitalBreastsQuadSkintonedM
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quad_m_s_0_FRONT: Genital
@@ -1871,6 +2011,7 @@
   id: GenitalBreastsQuadSkintonedN
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quad_n_s_0_FRONT: Genital
@@ -1887,6 +2028,7 @@
   id: GenitalBreastsQuadSkintonedO
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quad_o_s_0_FRONT: Genital
@@ -1903,6 +2045,7 @@
   id: GenitalBreastsQuadSkintonedMassive
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quad_massive_s_0_FRONT: Genital
@@ -1919,6 +2062,7 @@
   id: GenitalBreastsQuadSkintonedGiga
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quad_giga_s_0_FRONT: Genital
@@ -1935,6 +2079,7 @@
   id: GenitalBreastsQuadSkintonedImpossible
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quad_impossible_s_0_FRONT: Genital
@@ -1952,6 +2097,7 @@
   id: GenitalBreastsQuadliteA
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
@@ -1961,6 +2107,7 @@
   id: GenitalBreastsQuadliteB
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
@@ -1970,6 +2117,7 @@
   id: GenitalBreastsQuadliteC
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
@@ -1979,6 +2127,7 @@
   id: GenitalBreastsQuadliteD
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quadlite_d_0_FRONT: Genital
@@ -1995,6 +2144,7 @@
   id: GenitalBreastsQuadliteE
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quadlite_e_0_FRONT: Genital
@@ -2011,6 +2161,7 @@
   id: GenitalBreastsQuadliteF
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quadlite_f_0_FRONT: Genital
@@ -2027,6 +2178,7 @@
   id: GenitalBreastsQuadliteG
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quadlite_g_0_FRONT: Genital
@@ -2043,6 +2195,7 @@
   id: GenitalBreastsQuadliteH
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quadlite_h_0_FRONT: Genital
@@ -2059,6 +2212,7 @@
   id: GenitalBreastsQuadliteI
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quadlite_i_0_FRONT: Genital
@@ -2075,6 +2229,7 @@
   id: GenitalBreastsQuadliteJ
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quadlite_j_0_FRONT: Genital
@@ -2091,6 +2246,7 @@
   id: GenitalBreastsQuadliteK
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quadlite_k_0_FRONT: Genital
@@ -2107,6 +2263,7 @@
   id: GenitalBreastsQuadliteL
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quadlite_l_0_FRONT: Genital
@@ -2123,6 +2280,7 @@
   id: GenitalBreastsQuadliteM
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quadlite_m_0_FRONT: Genital
@@ -2139,6 +2297,7 @@
   id: GenitalBreastsQuadliteN
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quadlite_n_0_FRONT: Genital
@@ -2155,6 +2314,7 @@
   id: GenitalBreastsQuadliteO
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quadlite_o_0_FRONT: Genital
@@ -2171,6 +2331,7 @@
   id: GenitalBreastsQuadliteMassive
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quadlite_massive_0_FRONT: Genital
@@ -2187,6 +2348,7 @@
   id: GenitalBreastsQuadliteGiga
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quadlite_giga_0_FRONT: Genital
@@ -2203,6 +2365,7 @@
   id: GenitalBreastsQuadliteImpossible
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quadlite_impossible_0_FRONT: Genital
@@ -2220,6 +2383,7 @@
   id: GenitalBreastsQuadplusA
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
@@ -2229,6 +2393,7 @@
   id: GenitalBreastsQuadplusB
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
@@ -2238,6 +2403,7 @@
   id: GenitalBreastsQuadplusC
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
@@ -2247,6 +2413,7 @@
   id: GenitalBreastsQuadplusD
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quadplus_d_0_FRONT: Genital
@@ -2263,6 +2430,7 @@
   id: GenitalBreastsQuadplusE
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quadplus_e_0_FRONT: Genital
@@ -2279,6 +2447,7 @@
   id: GenitalBreastsQuadplusF
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quadplus_f_0_FRONT: Genital
@@ -2295,6 +2464,7 @@
   id: GenitalBreastsQuadplusG
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quadplus_g_0_FRONT: Genital
@@ -2311,6 +2481,7 @@
   id: GenitalBreastsQuadplusH
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quadplus_h_0_FRONT: Genital
@@ -2327,6 +2498,7 @@
   id: GenitalBreastsQuadplusI
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quadplus_i_0_FRONT: Genital
@@ -2343,6 +2515,7 @@
   id: GenitalBreastsQuadplusJ
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quadplus_j_0_FRONT: Genital
@@ -2359,6 +2532,7 @@
   id: GenitalBreastsQuadplusK
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quadplus_k_0_FRONT: Genital
@@ -2375,6 +2549,7 @@
   id: GenitalBreastsQuadplusL
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quadplus_l_0_FRONT: Genital
@@ -2391,6 +2566,7 @@
   id: GenitalBreastsQuadplusM
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quadplus_m_0_FRONT: Genital
@@ -2407,6 +2583,7 @@
   id: GenitalBreastsQuadplusN
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quadplus_n_0_FRONT: Genital
@@ -2423,6 +2600,7 @@
   id: GenitalBreastsQuadplusO
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quadplus_o_0_FRONT: Genital
@@ -2439,6 +2617,7 @@
   id: GenitalBreastsQuadplusMassive
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quadplus_massive_0_FRONT: Genital
@@ -2455,6 +2634,7 @@
   id: GenitalBreastsQuadplusGiga
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quadplus_giga_0_FRONT: Genital
@@ -2471,6 +2651,7 @@
   id: GenitalBreastsQuadplusImpossible
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_quadplus_impossible_0_FRONT: Genital
@@ -2488,6 +2669,7 @@
   id: GenitalBreastsSextupleA
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
@@ -2497,6 +2679,7 @@
   id: GenitalBreastsSextupleB
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
@@ -2506,6 +2689,7 @@
   id: GenitalBreastsSextupleC
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
@@ -2515,6 +2699,7 @@
   id: GenitalBreastsSextupleD
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_sextuple_d_0_FRONT: Genital
@@ -2531,6 +2716,7 @@
   id: GenitalBreastsSextupleE
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_sextuple_e_0_FRONT: Genital
@@ -2547,6 +2733,7 @@
   id: GenitalBreastsSextupleF
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_sextuple_f_0_FRONT: Genital
@@ -2563,6 +2750,7 @@
   id: GenitalBreastsSextupleG
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_sextuple_g_0_FRONT: Genital
@@ -2579,6 +2767,7 @@
   id: GenitalBreastsSextupleH
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_sextuple_h_0_FRONT: Genital
@@ -2595,6 +2784,7 @@
   id: GenitalBreastsSextupleI
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_sextuple_i_0_FRONT: Genital
@@ -2611,6 +2801,7 @@
   id: GenitalBreastsSextupleJ
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_sextuple_j_0_FRONT: Genital
@@ -2627,6 +2818,7 @@
   id: GenitalBreastsSextupleK
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_sextuple_k_0_FRONT: Genital
@@ -2643,6 +2835,7 @@
   id: GenitalBreastsSextupleL
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_sextuple_l_0_FRONT: Genital
@@ -2659,6 +2852,7 @@
   id: GenitalBreastsSextupleM
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_sextuple_m_0_FRONT: Genital
@@ -2675,6 +2869,7 @@
   id: GenitalBreastsSextupleN
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_sextuple_n_0_FRONT: Genital
@@ -2691,6 +2886,7 @@
   id: GenitalBreastsSextupleO
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_sextuple_o_0_FRONT: Genital
@@ -2707,6 +2903,7 @@
   id: GenitalBreastsSextupleMassive
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_sextuple_massive_0_FRONT: Genital
@@ -2723,6 +2920,7 @@
   id: GenitalBreastsSextupleGiga
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_sextuple_giga_0_FRONT: Genital
@@ -2739,6 +2937,7 @@
   id: GenitalBreastsSextupleImpossible
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_sextuple_impossible_0_FRONT: Genital
@@ -2756,6 +2955,7 @@
   id: GenitalBreastsSextupleSkintonedA
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
@@ -2765,6 +2965,7 @@
   id: GenitalBreastsSextupleSkintonedB
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
@@ -2774,6 +2975,7 @@
   id: GenitalBreastsSextupleSkintonedC
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
@@ -2783,6 +2985,7 @@
   id: GenitalBreastsSextupleSkintonedD
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_sextuple_d_s_0_FRONT: Genital
@@ -2799,6 +3002,7 @@
   id: GenitalBreastsSextupleSkintonedE
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_sextuple_e_s_0_FRONT: Genital
@@ -2815,6 +3019,7 @@
   id: GenitalBreastsSextupleSkintonedF
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_sextuple_f_s_0_FRONT: Genital
@@ -2831,6 +3036,7 @@
   id: GenitalBreastsSextupleSkintonedG
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_sextuple_g_s_0_FRONT: Genital
@@ -2847,6 +3053,7 @@
   id: GenitalBreastsSextupleSkintonedH
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_sextuple_h_s_0_FRONT: Genital
@@ -2863,6 +3070,7 @@
   id: GenitalBreastsSextupleSkintonedI
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_sextuple_i_s_0_FRONT: Genital
@@ -2879,6 +3087,7 @@
   id: GenitalBreastsSextupleSkintonedJ
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_sextuple_j_s_0_FRONT: Genital
@@ -2895,6 +3104,7 @@
   id: GenitalBreastsSextupleSkintonedK
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_sextuple_k_s_0_FRONT: Genital
@@ -2911,6 +3121,7 @@
   id: GenitalBreastsSextupleSkintonedL
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_sextuple_l_s_0_FRONT: Genital
@@ -2927,6 +3138,7 @@
   id: GenitalBreastsSextupleSkintonedM
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_sextuple_m_s_0_FRONT: Genital
@@ -2943,6 +3155,7 @@
   id: GenitalBreastsSextupleSkintonedN
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_sextuple_n_s_0_FRONT: Genital
@@ -2959,6 +3172,7 @@
   id: GenitalBreastsSextupleSkintonedO
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_sextuple_o_s_0_FRONT: Genital
@@ -2975,6 +3189,7 @@
   id: GenitalBreastsSextupleSkintonedMassive
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_sextuple_massive_s_0_FRONT: Genital
@@ -2991,6 +3206,7 @@
   id: GenitalBreastsSextupleSkintonedGiga
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_sextuple_giga_s_0_FRONT: Genital
@@ -3007,6 +3223,7 @@
   id: GenitalBreastsSextupleSkintonedImpossible
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
     breasts_sextuple_impossible_s_0_FRONT: Genital
@@ -3024,6 +3241,7 @@
   id: GenitalBreastsUddersA
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
@@ -3034,6 +3252,7 @@
   id: Genital-Penis-Amputated
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3043,6 +3262,7 @@
   id: Genital-Penis-Nondescript-1-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3052,6 +3272,7 @@
   id: Genital-Penis-Nondescript-1-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3061,6 +3282,7 @@
   id: Genital-Penis-Nondescript-2-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3070,6 +3292,7 @@
   id: Genital-Penis-Nondescript-2-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3079,6 +3302,7 @@
   id: Genital-Penis-Nondescript-3-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3088,6 +3312,7 @@
   id: Genital-Penis-Nondescript-3-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3097,6 +3322,7 @@
   id: Genital-Penis-Nondescript-4-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3106,6 +3332,7 @@
   id: Genital-Penis-Nondescript-4-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3115,6 +3342,7 @@
   id: Genital-Penis-Nondescript-5-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3124,6 +3352,7 @@
   id: Genital-Penis-Nondescript-5-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3133,6 +3362,7 @@
   id: Genital-Penis-Human-1-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3142,6 +3372,7 @@
   id: Genital-Penis-Human-1-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3151,6 +3382,7 @@
   id: Genital-Penis-Human-2-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3160,6 +3392,7 @@
   id: Genital-Penis-Human-2-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3169,6 +3402,7 @@
   id: Genital-Penis-Human-3-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3178,6 +3412,7 @@
   id: Genital-Penis-Human-3-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3187,6 +3422,7 @@
   id: Genital-Penis-Human-4-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3196,6 +3432,7 @@
   id: Genital-Penis-Human-4-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3205,6 +3442,7 @@
   id: Genital-Penis-Human-5-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3214,6 +3452,7 @@
   id: Genital-Penis-Human-5-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3223,6 +3462,7 @@
   id: Genital-Penis-Knotted-1-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3232,6 +3472,7 @@
   id: Genital-Penis-Knotted-1-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3241,6 +3482,7 @@
   id: Genital-Penis-Knotted-2-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3250,6 +3492,7 @@
   id: Genital-Penis-Knotted-2-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3259,6 +3502,7 @@
   id: Genital-Penis-Knotted-3-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3268,6 +3512,7 @@
   id: Genital-Penis-Knotted-3-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3277,6 +3522,7 @@
   id: Genital-Penis-Knotted-4-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3286,6 +3532,7 @@
   id: Genital-Penis-Knotted-4-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3295,6 +3542,7 @@
   id: Genital-Penis-Knotted-5-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3304,6 +3552,7 @@
   id: Genital-Penis-Knotted-5-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3313,6 +3562,7 @@
   id: Genital-Penis-Flared-1-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3322,6 +3572,7 @@
   id: Genital-Penis-Flared-1-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3331,6 +3582,7 @@
   id: Genital-Penis-Flared-2-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3340,6 +3592,7 @@
   id: Genital-Penis-Flared-2-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3349,6 +3602,7 @@
   id: Genital-Penis-Flared-3-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3358,6 +3612,7 @@
   id: Genital-Penis-Flared-3-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3367,6 +3622,7 @@
   id: Genital-Penis-Flared-4-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3376,6 +3632,7 @@
   id: Genital-Penis-Flared-4-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3385,6 +3642,7 @@
   id: Genital-Penis-Flared-5-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3394,6 +3652,7 @@
   id: Genital-Penis-Flared-5-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3403,6 +3662,7 @@
   id: Genital-Penis-Barbknot-1-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3412,6 +3672,7 @@
   id: Genital-Penis-Barbknot-1-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3421,6 +3682,7 @@
   id: Genital-Penis-Barbknot-2-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3430,6 +3692,7 @@
   id: Genital-Penis-Barbknot-2-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3439,6 +3702,7 @@
   id: Genital-Penis-Barbknot-3-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3448,6 +3712,7 @@
   id: Genital-Penis-Barbknot-3-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3457,6 +3722,7 @@
   id: Genital-Penis-Barbknot-4-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3466,6 +3732,7 @@
   id: Genital-Penis-Barbknot-4-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3475,6 +3742,7 @@
   id: Genital-Penis-Barbknot-5-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3484,6 +3752,7 @@
   id: Genital-Penis-Barbknot-5-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3493,6 +3762,7 @@
   id: Genital-Penis-Tentacle-1-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3502,6 +3772,7 @@
   id: Genital-Penis-Tentacle-1-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3511,6 +3782,7 @@
   id: Genital-Penis-Tentacle-2-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3520,6 +3792,7 @@
   id: Genital-Penis-Tentacle-2-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3529,6 +3802,7 @@
   id: Genital-Penis-Tentacle-3-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3538,6 +3812,7 @@
   id: Genital-Penis-Tentacle-3-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3547,6 +3822,7 @@
   id: Genital-Penis-Tentacle-4-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3556,6 +3832,7 @@
   id: Genital-Penis-Tentacle-4-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3565,6 +3842,7 @@
   id: Genital-Penis-Tentacle-5-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3574,6 +3852,7 @@
   id: Genital-Penis-Tentacle-5-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3584,6 +3863,7 @@
   id: Genital-Penis-Human-1-S-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3593,6 +3873,7 @@
   id: Genital-Penis-Human-1-S-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3602,6 +3883,7 @@
   id: Genital-Penis-Human-2-S-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3611,6 +3893,7 @@
   id: Genital-Penis-Human-2-S-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3620,6 +3903,7 @@
   id: Genital-Penis-Human-3-S-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3629,6 +3913,7 @@
   id: Genital-Penis-Human-3-S-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3638,6 +3923,7 @@
   id: Genital-Penis-Human-4-S-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3647,6 +3933,7 @@
   id: Genital-Penis-Human-4-S-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3656,6 +3943,7 @@
   id: Genital-Penis-Knotted-1-S-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3665,6 +3953,7 @@
   id: Genital-Penis-Knotted-1-S-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3674,6 +3963,7 @@
   id: Genital-Penis-Knotted-2-S-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3683,6 +3973,7 @@
   id: Genital-Penis-Knotted-2-S-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3692,6 +3983,7 @@
   id: Genital-Penis-Knotted-3-S-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3701,6 +3993,7 @@
   id: Genital-Penis-Knotted-3-S-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3710,6 +4003,7 @@
   id: Genital-Penis-Knotted-4-S-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3719,6 +4013,7 @@
   id: Genital-Penis-Knotted-4-S-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3728,6 +4023,7 @@
   id: Genital-Penis-Barbknot-1-S-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3737,6 +4033,7 @@
   id: Genital-Penis-Barbknot-1-S-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3746,6 +4043,7 @@
   id: Genital-Penis-Barbknot-2-S-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3755,6 +4053,7 @@
   id: Genital-Penis-Barbknot-2-S-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3764,6 +4063,7 @@
   id: Genital-Penis-Barbknot-3-S-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3773,6 +4073,7 @@
   id: Genital-Penis-Barbknot-3-S-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3782,6 +4083,7 @@
   id: Genital-Penis-Barbknot-4-S-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3791,6 +4093,7 @@
   id: Genital-Penis-Barbknot-4-S-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3800,6 +4103,7 @@
   id: Genital-Penis-Flared-1-S-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3809,6 +4113,7 @@
   id: Genital-Penis-Flared-1-S-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3818,6 +4123,7 @@
   id: Genital-Penis-Flared-2-S-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3827,6 +4133,7 @@
   id: Genital-Penis-Flared-2-S-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3836,6 +4143,7 @@
   id: Genital-Penis-Flared-3-S-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3845,6 +4153,7 @@
   id: Genital-Penis-Flared-3-S-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3854,6 +4163,7 @@
   id: Genital-Penis-Flared-4-S-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3863,6 +4173,7 @@
   id: Genital-Penis-Flared-4-S-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3872,6 +4183,7 @@
   id: Genital-Penis-Tentacle-1-S-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3881,6 +4193,7 @@
   id: Genital-Penis-Tentacle-2-S-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3890,6 +4203,7 @@
   id: Genital-Penis-Tentacle-3-S-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3899,6 +4213,7 @@
   id: Genital-Penis-Tentacle-4-S-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3908,6 +4223,7 @@
   id: Genital-Penis-Tentacle-4-S-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3918,6 +4234,7 @@
   id: Genital-Penis-Hemi-1-S-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3927,6 +4244,7 @@
   id: Genital-Penis-Hemi-1-S-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3936,6 +4254,7 @@
   id: Genital-Penis-Hemi-2-S-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3945,6 +4264,7 @@
   id: Genital-Penis-Hemi-2-S-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3954,6 +4274,7 @@
   id: Genital-Penis-Hemi-3-S-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3963,6 +4284,7 @@
   id: Genital-Penis-Hemi-3-S-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3972,6 +4294,7 @@
   id: Genital-Penis-Hemi-4-S-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3981,6 +4304,7 @@
   id: Genital-Penis-Hemi-4-S-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3990,6 +4314,7 @@
   id: Genital-Penis-Hemiknot-1-S-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -3999,6 +4324,7 @@
   id: Genital-Penis-Hemiknot-1-S-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -4008,6 +4334,7 @@
   id: Genital-Penis-Hemiknot-2-S-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -4017,6 +4344,7 @@
   id: Genital-Penis-Hemiknot-2-S-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -4026,6 +4354,7 @@
   id: Genital-Penis-Hemiknot-3-S-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -4035,6 +4364,7 @@
   id: Genital-Penis-Hemiknot-3-S-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -4044,6 +4374,7 @@
   id: Genital-Penis-Hemiknot-4-S-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -4053,6 +4384,7 @@
   id: Genital-Penis-Hemiknot-4-S-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -4062,6 +4394,7 @@
   id: Genital-Penis-Tapered-1-S-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -4071,6 +4404,7 @@
   id: Genital-Penis-Tapered-1-S-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -4080,6 +4414,7 @@
   id: Genital-Penis-Tapered-2-S-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -4089,6 +4424,7 @@
   id: Genital-Penis-Tapered-2-S-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -4098,6 +4434,7 @@
   id: Genital-Penis-Tapered-3-S-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -4107,6 +4444,7 @@
   id: Genital-Penis-Tapered-3-S-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -4116,6 +4454,7 @@
   id: Genital-Penis-Tapered-4-S-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -4125,6 +4464,7 @@
   id: Genital-Penis-Tapered-4-S-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -4134,6 +4474,7 @@
   id: Genital-Penis-Tipknotted-1-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -4143,6 +4484,7 @@
   id: Genital-Penis-Tipknotted-1-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -4152,6 +4494,7 @@
   id: Genital-Penis-Tipknotted-2-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -4161,6 +4504,7 @@
   id: Genital-Penis-Tipknotted-2-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -4170,6 +4514,7 @@
   id: Genital-Penis-Tipknotted-3-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -4179,6 +4524,7 @@
   id: Genital-Penis-Tipknotted-3-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -4188,6 +4534,7 @@
   id: Genital-Penis-Tipknotted-5-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -4197,6 +4544,7 @@
   id: Genital-Penis-Tipknotted-5-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -4207,6 +4555,7 @@
   id: Genital-Penis-Hemi-1-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -4216,6 +4565,7 @@
   id: Genital-Penis-Hemi-1-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -4225,6 +4575,7 @@
   id: Genital-Penis-Hemi-2-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -4234,6 +4585,7 @@
   id: Genital-Penis-Hemi-2-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -4243,6 +4595,7 @@
   id: Genital-Penis-Hemi-3-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -4252,6 +4605,7 @@
   id: Genital-Penis-Hemi-3-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -4261,6 +4615,7 @@
   id: Genital-Penis-Hemi-4-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -4270,6 +4625,7 @@
   id: Genital-Penis-Hemi-4-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -4279,6 +4635,7 @@
   id: Genital-Penis-Hemi-5-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -4288,6 +4645,7 @@
   id: Genital-Penis-Hemi-5-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -4297,6 +4655,7 @@
   id: Genital-Penis-Hemiknot-1-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -4306,6 +4665,7 @@
   id: Genital-Penis-Hemiknot-1-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -4315,6 +4675,7 @@
   id: Genital-Penis-Hemiknot-2-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -4324,6 +4685,7 @@
   id: Genital-Penis-Hemiknot-2-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -4333,6 +4695,7 @@
   id: Genital-Penis-Hemiknot-3-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -4342,6 +4705,7 @@
   id: Genital-Penis-Hemiknot-3-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -4351,6 +4715,7 @@
   id: Genital-Penis-Hemiknot-4-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -4360,6 +4725,7 @@
   id: Genital-Penis-Hemiknot-4-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -4369,6 +4735,7 @@
   id: Genital-Penis-Hemiknot-5-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -4378,6 +4745,7 @@
   id: Genital-Penis-Hemiknot-5-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -4387,6 +4755,7 @@
   id: Genital-Penis-Tapered-1-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -4396,6 +4765,7 @@
   id: Genital-Penis-Tapered-1-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -4405,6 +4775,7 @@
   id: Genital-Penis-Tapered-2-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -4414,6 +4785,7 @@
   id: Genital-Penis-Tapered-2-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -4423,6 +4795,7 @@
   id: Genital-Penis-Tapered-3-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -4432,6 +4805,7 @@
   id: Genital-Penis-Tapered-3-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -4441,6 +4815,7 @@
   id: Genital-Penis-Tapered-4-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -4450,6 +4825,7 @@
   id: Genital-Penis-Tapered-4-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -4459,6 +4835,7 @@
   id: Genital-Penis-Tapered-5-0
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -4468,6 +4845,7 @@
   id: Genital-Penis-Tapered-5-1
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
@@ -4477,6 +4855,7 @@
   id: Knotted-Wolf-Cock
   bodyPart: Genital
   markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/cocks.rsi
