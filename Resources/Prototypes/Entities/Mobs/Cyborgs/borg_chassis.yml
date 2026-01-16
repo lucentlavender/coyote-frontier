@@ -114,6 +114,40 @@
         path: /Audio/Ambience/Objects/periodic_beep.ogg
 
 - type: entity
+  id: BorgChassisSyndicateAssaultExpedition # Coyote
+  parent: [ BorgChassisSyndicateAssault, BaseC3SyndicateContraband ]
+  name: syndicate assault cyborg
+  description: A lean, mean killing machine with access to a variety of deadly modules.
+  components:
+  - type: NpcFactionMember # Chassis is targeted by syndicate NPCs
+  - type: SiliconLawProvider
+    laws: Crewsimov
+  - type: Access # Chassis has normal borg access
+    enabled: false
+    groups:
+      - AllAccess
+    tags:
+      - Borg
+  - type: Damageable # Armor
+    damageModifierSet: FlimsyMetallic
+    damageContainer: Silicon
+  - type: BorgChassis
+    maxModules: 5
+    moduleWhitelist:
+      tags:
+        - BorgModuleGeneric
+        - BorgModuleSyndicate
+        - BorgModuleSyndicateAssault
+        - BorgModuleTool
+        - BorgModuleJetpack
+  - type: ContainerFill
+    containers:
+      borg_module:
+        - BorgModuleSyndicateWeapon
+        - BorgModuleTool
+        - BorgModuleJetpack
+
+- type: entity
   id: BorgChassisSyndicateMedical
   parent: [BaseBorgChassisSyndicate, ShowMedicalIcons]
   name: syndicate medical cyborg

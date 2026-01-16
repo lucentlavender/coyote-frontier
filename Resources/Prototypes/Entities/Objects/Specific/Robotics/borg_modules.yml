@@ -482,6 +482,8 @@
     layers:
     - state: generic
     - state: icon-tools
+  - type: BorgModule
+    defaultModule: true
   - type: ItemBorgModule
     moduleId: Tools # Frontier
     items:
@@ -494,6 +496,9 @@
     - MaintenanceJack # Frontier
   - type: BorgModuleIcon
     icon: { sprite: Interface/Actions/actions_borg.rsi, state: tool-module }
+  - type: Tag
+    tags:
+    - BorgModuleTool # Coyote
 
 # cargo modules
 - type: entity
