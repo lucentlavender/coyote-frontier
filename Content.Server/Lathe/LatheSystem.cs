@@ -105,11 +105,22 @@ namespace Content.Server.Lathe
             var query = EntityQueryEnumerator<LatheProducingComponent, LatheComponent>();
             while (query.MoveNext(out var uid, out var comp, out var lathe))
             {
-                if (lathe.CurrentRecipe == null)
-                    continue;
-
-                if (_timing.CurTime - comp.StartTime >= comp.ProductionLength * ProductionTimeMultiplier) // Frontier: increase production time
+                // Try to produce multiple items per tick
+                var timeToSpend = _timing.CurTime - comp.StartTime;
+                bool itemProduced = false;
+                while (lathe.CurrentRecipe != null && timeToSpend >= comp.ProductionLength * ProductionTimeMultiplier)
+                {
+                    timeToSpend -= comp.ProductionLength * ProductionTimeMultiplier;
                     FinishProducing(uid, lathe);
+                    TryStartProducing(uid, lathe);
+                    itemProduced = true;
+                }
+
+                // If more items are queued, subtract excess time from startTime so it isn't wasted
+                if (lathe.CurrentRecipe != null && itemProduced)
+                {
+                    comp.StartTime -= timeToSpend;
+                }
             }
 
             var heatQuery = EntityQueryEnumerator<LatheHeatProducingComponent, LatheProducingComponent, TransformComponent>();
