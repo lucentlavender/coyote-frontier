@@ -491,7 +491,7 @@
   components:
   - type: FlavorProfile
     flavors:
-    - sweet-dough
+    - dough
   - type: Sprite
     sprite: _CS/Objects/Consumable/Food/Baked/diydonkpocket.rsi
     state: prep

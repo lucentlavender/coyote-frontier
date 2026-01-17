@@ -39,3 +39,248 @@
   solids:
     FoodDonkpocketSupermatter: 1
   recipeType: Microwave # Frontier
+
+# Prepped Donk Pocket
+
+- type: microwaveMealRecipe
+  id: FoodDonkpocketPrepBananaDIY
+  name: Prepped Donk Pocket
+  result: FoodDonkpocketPrepBananaDIY
+  time: 5
+  group: Sweet
+  solids:
+    FoodDoughPastryBaseRaw: 1
+    FoodBanana: 1
+  reagents:
+    Fat: 2
+  recipeType: Assembler # Frontier
+
+- type: microwaveMealRecipe
+  id: FoodDonkpocketPrepBananaSplitDIY
+  name: Prepped Donk Pocket
+  result: FoodDonkpocketPrepBananaDIY
+  time: 5
+  group: Sweet
+  solids:
+    FoodDoughPastryBaseRaw: 1
+    FoodBanana: 1
+    FoodSnackChocolate: 1
+  reagents:
+    Fat: 2
+    Cream: 2
+  recipeType: Assembler # Frontier
+
+- type: microwaveMealRecipe
+  id: FoodDonkpocketPrepBbqDIY
+  name: Prepped Donk Pocket
+  result: FoodDonkpocketPrepBbqDIY
+  time: 5
+  group: Sweet
+  solids:
+    FoodDoughPastryBaseRaw: 1
+  reagents:
+    Fat: 2
+    BbqSauce: 5
+  recipeType: Assembler # Frontier
+
+- type: microwaveMealRecipe
+  id: FoodDonkpocketPrepBerryDIY
+  name: Prepped Donk Pocket
+  result: FoodDonkpocketPrepBerryDIY
+  time: 5
+  group: Sweet
+  solids:
+    FoodDoughPastryBaseRaw: 1
+    FoodBerries: 1
+  reagents:
+    Fat: 2
+  recipeType: Assembler # Frontier
+
+- type: microwaveMealRecipe
+  id: FoodDonkpocketPrepCherryDIY
+  name: Prepped Donk Pocket
+  result: FoodDonkpocketPrepCherryDIY
+  time: 5
+  group: Sweet
+  solids:
+    FoodDoughPastryBaseRaw: 1
+    FoodCherry: 1
+  reagents:
+    Fat: 2
+  recipeType: Assembler # Frontier
+
+- type: microwaveMealRecipe
+  id: FoodDonkpocketPrepChocolateDIY
+  name: Prepped Donk Pocket
+  result: FoodDonkpocketPrepChocolateDIY
+  time: 5
+  group: Sweet
+  solids:
+    FoodDoughPastryBaseRaw: 1
+    FoodSnackChocolate: 2
+  reagents:
+    Fat: 2
+  recipeType: Assembler # Frontier
+
+- type: microwaveMealRecipe
+  id: FoodDonkpocketPrepDankDIY
+  name: Prepped Donk Pocket
+  result: FoodDonkpocketPrepDankDIY
+  time: 5
+  group: Sweet
+  solids:
+    FoodDoughPastryBaseRaw: 1
+    FoodCannabisButter: 1
+  reagents:
+    Fat: 2
+  recipeType: Assembler # Frontier
+
+- type: microwaveMealRecipe
+  id: FoodDonkpocketPrepHoneyDIY
+  name: Prepped Donk Pocket
+  result: FoodDonkpocketPrepHoneyDIY
+  time: 5
+  group: Sweet
+  solids:
+    FoodDoughPastryBaseRaw: 1
+  reagents:
+    Fat: 2
+    Honey: 5
+  recipeType: Assembler # Frontier
+
+- type: microwaveMealRecipe
+  id: FoodDonkpocketPrepMothDIY
+  name: Prepped Donk Pocket
+  result: FoodDonkpocketPrepMothDIY
+  time: 5
+  group: Sweet
+  solids:
+    FoodDoughCottonSlice: 1
+    Cloth: 1
+  reagents:
+    Fat: 2
+  recipeType: Assembler # Frontier
+
+- type: microwaveMealRecipe
+  id: FoodDonkpocketPrepOrangeDIY
+  name: Prepped Donk Pocket
+  result: FoodDonkpocketPrepOrangeDIY
+  time: 5
+  group: Sweet
+  solids:
+    FoodDoughPastryBaseRaw: 1
+    FoodOrange: 1
+  reagents:
+    Fat: 2
+  recipeType: Assembler # Frontier
+
+- type: microwaveMealRecipe
+  id: FoodDonkpocketPrepPizzaDIY
+  name: Prepped Donk Pocket
+  result: FoodDonkpocketPrepPizzaDIY
+  time: 5
+  group: Sweet
+  solids:
+    FoodDoughPastryBaseRaw: 1
+    FoodCheeseSlice: 1
+  reagents:
+    Fat: 2
+    TomatoSauce: 2
+  recipeType: Assembler # Frontier
+
+- type: microwaveMealRecipe
+  id: FoodDonkpocketPrepPlainDIY
+  name: Prepped Donk Pocket
+  result: FoodDonkpocketPrepPlainDIY
+  time: 5
+  group: Sweet
+  solids:
+    FoodDoughPastryBaseRaw: 1
+    FoodMeatMeatball: 1
+  reagents:
+    Fat: 2
+  recipeType: Assembler # Frontier
+
+- type: microwaveMealRecipe
+  id: FoodDonkpocketPrepSpicyDIY
+  name: Prepped Donk Pocket
+  result: FoodDonkpocketPrepSpicyDIY
+  time: 5
+  group: Sweet
+  solids:
+    FoodDoughPastryBaseRaw: 1
+    FoodMeatMeatball: 1
+    FoodChiliPepper: 1
+  reagents:
+    Fat: 2
+  recipeType: Assembler # Frontier
+
+- type: microwaveMealRecipe
+  id: FoodDonkpocketPrepTeriyakiDIY
+  name: Prepped Donk Pocket
+  result: FoodDonkpocketPrepTeriyakiDIY
+  time: 5
+  group: Sweet
+  solids:
+    FoodDoughPastryBaseRaw: 1
+  reagents:
+    Fat: 2
+    BbqSauce: 2.5
+    SoySauce: 2.5
+  recipeType: Assembler # Frontier
+
+- type: microwaveMealRecipe
+  id: FoodDonkpocketPrepPirozhkiDIY
+  name: Prepped Donk Pocket
+  result: FoodDonkpocketPrepPirozhkiDIY
+  time: 5
+  group: Sweet
+  solids:
+    FoodDoughPastryBaseRaw: 1
+    FoodMeatMeatball: 1
+    FoodOnionSlice: 1
+    FoodPotatoSlice: 1
+  reagents:
+    Fat: 2
+  recipeType: Assembler # Frontier
+
+- type: microwaveMealRecipe
+  id: FoodDonkpocketPrepMushroomDIY
+  name: Prepped Donk Pocket
+  result: FoodDonkpocketPrepMushroomDIY
+  time: 5
+  group: Sweet
+  solids:
+    FoodDoughPastryBaseRaw: 1
+    FoodMushroom: 1
+  reagents:
+    Fat: 2
+  recipeType: Assembler # Frontier
+
+- type: microwaveMealRecipe
+  id: FoodDonkpocketPrepCheddarDIY
+  name: Prepped Donk Pocket
+  result: FoodDonkpocketPrepCheddarDIY
+  time: 5
+  group: Sweet
+  solids:
+    FoodDoughPastryBaseRaw: 1
+    FoodCheeseSlice: 1
+    FoodMeatMeatball: 1
+  reagents:
+    Fat: 2
+  recipeType: Assembler # Frontier
+
+- type: microwaveMealRecipe
+  id: FoodDonkpocketPrepMozzarellaDIY
+  name: Prepped Donk Pocket
+  result: FoodDonkpocketPrepMozzarellaDIY
+  time: 5
+  group: Sweet
+  solids:
+    FoodDoughPastryBaseRaw: 1
+    FoodMozzarella: 1
+  reagents:
+    Fat: 2
+    TomatoSauce: 2
+  recipeType: Assembler # Frontier
