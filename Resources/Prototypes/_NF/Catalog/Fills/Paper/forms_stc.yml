@@ -19,11 +19,11 @@
     - state: folder-base
   - type: StorageFill
     contents:
-    - id: PaperWrittenStcFormCitationParking
-    - id: PaperWrittenStcFormCitationTraffic
-    - id: PaperWrittenStcFormProsecutionRequest
-    - id: PaperWrittenStcFormTrafficLog
-    - id: PaperWrittenStcFormWellnessCheck
+#    - id: PaperWrittenStcFormCitationParking CS - these papers are defunct until completely rewritten in adherence with new policy, SOP, and command structure
+#    - id: PaperWrittenStcFormCitationTraffic
+#    - id: PaperWrittenStcFormProsecutionRequest
+#    - id: PaperWrittenStcFormTrafficLog
+#    - id: PaperWrittenStcFormWellnessCheck
     - id: Paper
       prob: 0.5
     - id: Paper

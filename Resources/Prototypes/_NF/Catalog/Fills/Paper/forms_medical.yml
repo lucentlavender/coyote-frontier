@@ -220,7 +220,7 @@
 
       [bold]Total Value: $XXX,XXX[/bold]
 
-      [color=#AAAAAA]This Form is void without the signature and stamp of the Director of Care. This form does not constitute a contract. Compensation for services provided is at the discretion of the Director of Care.[/color]
+      [color=#AAAAAA]This Form is void without the signature and stamp of the Frontier Civil Command. This form does not constitute a contract. Compensation for services provided is at the discretion of the Frontier Civil Command.[/color]
 
 - type: entity
   id: PaperWrittenMedicalFormRelease
@@ -256,7 +256,7 @@
 
 
 
-      [color=#AAAAAA]This Form is only acknowledged with the signature and stamp of the Director of Care. This form does not constitute a contract. Compensation for services provided is at the discretion of the Director of Care.[/color]
+      [color=#AAAAAA]This Form is only acknowledged with the signature and stamp of Frontier Civil Command. This form does not constitute a contract. Compensation for services provided is at the discretion of Frontier Civil Command.[/color]
 
 
 - type: entity
