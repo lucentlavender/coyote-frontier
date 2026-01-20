@@ -834,15 +834,15 @@
     pack: TankDispenserEVAPOIInventory
 
 - type: entity
-  parent: [VendingMachinePickNPack, BaseStructureDisableToolUse] # Coyote: no more hacking, contractors!
+  parent: [VendingMachinePickNPack, BaseStructureDisableAnchoring] # Coyote: no more hacking, contractors!
   id: VendingMachinePickNPackPOI
   suffix: POI
   components:
   - type: VendingMachine
     pack: PickNPackPOIInventory
-  - type: AccessReader
-    access: [["Mercenary"], ["Security"], ["HeadOfPersonnel"], ["HeadOfSecurity"]]
-  - type: ActivatableUIRequiresAccess
+#  - type: AccessReader
+#    access: [["Mercenary"], ["Security"], ["HeadOfPersonnel"], ["HeadOfSecurity"]]
+#  - type: ActivatableUIRequiresAccess
 
 #region DEBUG
 - type: entity

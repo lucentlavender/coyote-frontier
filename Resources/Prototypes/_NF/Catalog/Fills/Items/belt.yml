@@ -19,9 +19,9 @@
   parent: ClothingBeltNfsd # Coyote: Removed ClothingBeltSecurityFilled parent to seperate the two's contents.
   suffix: Filled # Coyote: Added this so the suffix still works.
   components:
-  - type: StorageFill # Coyote: Added intended NFSD belt contents, different stunbaton from regularly available secbelt.
+  - type: StorageFill # Coyote: Added intended NFSD belt contents.
     contents:
-      - id: SecStunbaton
+      - id: Stunbaton
         amount: 1
       - id: Handcuffs
         amount: 1
@@ -55,7 +55,7 @@
     contents:
       - id: GrenadeFlashBang
       - id: TearGasGrenade
-      - id: SecStunbaton # Coyote: Stunbaton<SecStunbaton
+      - id: Stunbaton
       - id: Handcuffs
       - id: Handcuffs
 

@@ -1,4 +1,4 @@
-# Contractor
+# Resident
 
 loadout-group-contractor-gloves = gloves
 loadout-group-contractor-head = head

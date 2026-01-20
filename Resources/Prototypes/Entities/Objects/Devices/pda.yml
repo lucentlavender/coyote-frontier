@@ -1567,7 +1567,7 @@
 - type: entity
   parent: BasePDA
   id: ChameleonPDA
-  name: contractor PDA # Frontier passenger<contractor
+  name: resident PDA # Frontier passenger<resident
   description: Why isn't it gray?
   suffix: Chameleon
   components:

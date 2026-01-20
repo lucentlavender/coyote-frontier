@@ -166,8 +166,8 @@
 # Melee
 - type: latheRecipe
   parent: BaseWeaponRecipeMelee
-  id: SecStunbaton # Coyote: Stunbaton<SecStunbaton
-  result: SecStunbaton # Coyote: Stunbaton<SecStunbaton
+  id: Stunbaton
+  result: Stunbaton
   materials:
     Steel: 300
     Plastic: 300

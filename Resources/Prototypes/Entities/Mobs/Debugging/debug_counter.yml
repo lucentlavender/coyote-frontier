@@ -51,3 +51,21 @@
           1
         Count: !type:Single
           0
+
+- type: entity
+  parent: MobHuman
+  id: MobDebugChatterboy
+  name: debug chatterboy
+  description: He can say random stuff
+  suffix: AI, DEBUG
+  components:
+    - type: HTN
+      rootTask:
+        task: DebugChatterboy
+      blackboard:
+        MinimumIdleTime: !type:Single
+          1
+        MaximumIdleTime: !type:Single
+          1
+        Count: !type:Single
+          0

@@ -436,9 +436,15 @@ namespace Content.IntegrationTests.Tests
                     var comp = entManager.GetComponent<StationJobsComponent>(station);
                     var jobs = new HashSet<ProtoId<JobPrototype>>(comp.SetupAvailableJobs.Keys);
 
-                    var spawnPoints = entManager.EntityQuery<SpawnPointComponent>()
+                    IEnumerable<ProtoId<JobPrototype>> spawnPoints = entManager.EntityQuery<SpawnPointComponent>()
                         .Where(x => x.SpawnType == SpawnPointType.Job && x.Job != null)
                         .Select(x => x.Job.Value);
+
+                    jobs.ExceptWith(spawnPoints);
+
+                    spawnPoints = entManager.EntityQuery<SpawnPointComponent>()
+                        .Where(x => x.SpawnType == SpawnPointType.Job && x.AltJobs.Count > 0)
+                        .SelectMany(x => x.AltJobs);
 
                     jobs.ExceptWith(spawnPoints);
 

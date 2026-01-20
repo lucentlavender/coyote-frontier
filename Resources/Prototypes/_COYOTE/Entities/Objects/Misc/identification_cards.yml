@@ -1,5 +1,5 @@
 - type: entity
-  name: Pilot ID card # Frontier: passenger<contractor
+  name: Pilot ID card # Frontier: passenger<resident
   parent: [IDCardStandard, BaseC3PirateContraband]
   id: SmugglerIDCard
   suffix: Coyote

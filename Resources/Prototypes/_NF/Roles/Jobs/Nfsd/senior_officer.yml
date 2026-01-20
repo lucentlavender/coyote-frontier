@@ -1,3 +1,5 @@
+# Sergeant
+
 - type: job
   id: SeniorOfficer
   name: job-name-senior-officer
@@ -8,22 +10,20 @@
       time: 108000 # 30 hours
     - !type:DepartmentTimeRequirement
       department: Security
-      time: 43200 # 12 hours
-  alternateRequirementSets:
-    longerPlaytimeLessSec:
-    - !type:OverallPlaytimeRequirement
-      time: 540000 # 150 hours
-    - !type:RoleTimeRequirement
-      role: JobSecurityOfficer
-      time: 21600 # 6 hours
+      time: 86400 # 24 hours
   startingGear: SeniorOfficerGear
   icon: JobIconSergeant
   supervisors: job-supervisors-bailiff
   weight: 140
   displayWeight: 50
   canBeAntag: false
-  access:
+  access: # Access was editted by Coyote
+  - HeadOfSecurity
+  - Command
+  - Armory
   - Sergeant
+  - Bailiff
+  - Brigmedic
   accessGroups:
   - GeneralNfsdAccess
   special:
@@ -45,6 +45,7 @@
     - BaseSecurityUplinkRadioOfficer
     - FrontierUplinkCoin5 # Coyote added 5 FUCs to Sergeants
     - ShipVoucherNfsdSergeant
+    - EncryptionKeyCommand
 
 - type: chameleonOutfit
   id: SeniorOfficerChameleonOutfit

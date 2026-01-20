@@ -125,11 +125,11 @@
         color: "#9a733f"
 
 # COLORED DEPARTMENTAL
-#region contractor
+#region resident
 - type: entity
   id: NFPouchContractor
   parent: NFPouchUtility
-  name: contractor's pouch
+  name: resident's pouch
   components:
   - type: Sprite
     layers:

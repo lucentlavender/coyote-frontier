@@ -1,7 +1,7 @@
 - type: entity
   id: SpawnPointContractor
   parent: SpawnPointPassenger
-  name: contractor
+  name: resident
   components:
   - type: SpawnPoint
     job_id: Contractor
@@ -9,7 +9,7 @@
 - type: entity
   id: SpawnPointContractorInterview
   parent: SpawnPointContractor
-  name: contractor applicant
+  name: resident applicant
   components:
   - type: SpawnPoint
     job_id: ContractorInterview

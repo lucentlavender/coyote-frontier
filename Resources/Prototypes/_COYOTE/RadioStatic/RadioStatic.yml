@@ -5,6 +5,12 @@
     path: /Audio/_COYOTE/RadioStatic/Default/say.ogg
 
 - type: RadioStatic
+  id: RadioStaticGeneric
+  secret: true
+  saySound:
+    path: /Audio/_COYOTE/RadioStatic/Generic/say.ogg
+
+- type: RadioStatic
   id: RadioStaticTrafficHeadset
   secret: true
   saySound:

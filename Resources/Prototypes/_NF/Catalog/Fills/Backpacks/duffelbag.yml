@@ -87,7 +87,7 @@
 - type: entity
   parent: [ NFClothingDuffel, StorageFillEVASuitContractor ]
   id: ClothingBackpackDuffelEVABundleContractor
-  name: contractor EVA bundle
+  name: resident EVA bundle
   suffix: Filled
 
 - type: entity

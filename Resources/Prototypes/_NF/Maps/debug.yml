@@ -17,6 +17,7 @@
             Mercenary: [ -1, -1 ]
             FoodService: [ -1, -1]
             MassageTherapist: [ -1, -1]
+            Companion: [ -1, -1]
             Journalist: [ -1, -1]
             MedicalNurse: [ -1, -1]
             Curator: [ -1, -1]

@@ -101,6 +101,21 @@
 
 - type: entity
   parent: BaseShipVoucherCoyoteGeneric
+  id: ShipVoucherCoyoteCompanion
+  name: companion ship voucher
+  description: Allows for one (1) free rental from a selection of shuttles.
+  components:
+  - type: ShipyardVoucher
+    destroyOnEmpty: true
+    consoleType: Sr
+    useAnywhere: true
+    vessels:
+    - Placebo
+    - Camper
+    - Nook
+
+- type: entity
+  parent: BaseShipVoucherCoyoteGeneric
   id: ShipVoucherCoyoteNurse
   name: nurse ship voucher
   description: Allows for one (1) free rental from a selection of shuttles.

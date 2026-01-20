@@ -1,21 +1,61 @@
-- type: reaction # a poodle was here. this was editted to be in line with the recipes from the baristavend
-  id: Coffee
-  minTemp: 353 # ~80 deg C
-# keeping the former stuff right here in case it breaks somehow
-#  requiredMixerCategories:
-#  - Stir
-#  reactants:
-#    Water:
-#      amount: 3
-#    CoffeeGrounds:
-#      amount: 1
+#Drinks
+
+- type: reaction
+  id: TheMadgob
   reactants:
-    Water:
-      amount: 5
-    CoffeeGrounds:
+    DoctorsDelight:
+      amount: 1
+    PumpkinFlesh:
+      amount: 3
+    JuiceThatMakesYouWeh:
       amount: 1
   products:
-    Coffee: 6
+    TheMadgob: 5
+
+- type: reaction
+  id: WassailMulledAle
+  minTemp: 350
+  reactants:
+    Ale:
+      amount: 1
+    Sugar:
+      amount: 1
+    JuiceApple:
+      amount: 1
+    Everyspice:
+      amount: 1
+  products:
+    WassailMulledAle : 4
+
+- type: reaction
+  id: Eggnog
+  requiredMixerCategories:
+  - Shake # close enough to meringue?
+  reactants:
+    Sugar:
+      amount: 1
+    Cream:
+      amount: 1
+    Egg:
+      amount: 1
+    Rum:
+      amount: 1
+  products:
+    Eggnog: 4
+
+
+# Coffee Drinks
+
+- type: reaction
+  id: Coffee
+  minTemp: 353 # ~80 deg C
+  reactants:
+    Water:
+      amount: 15
+    CoffeeGrounds:
+      amount: 5
+  products:
+    Coffee: 20
 
 - type: reaction
   id: PumpkinSpiceLatte
@@ -31,6 +71,19 @@
   products:
     PumpkinSpiceLatte: 6
 
+# Tea Drinks
+
+- type: reaction
+  id: HoneyIcedTea
+  reactants:
+    Honey:
+      amount: 1
+    IcedTea:
+      amount: 1
+  products:
+    HoneyIcedTea: 2
+
+# Alcoholic Drinks
 - type: reaction
   id: GinAndSonic
   requiredMixerCategories:
@@ -96,44 +149,3 @@
       amount: 1
   products:
     BeesKnees: 5
-
-- type: reaction
-  id: HoneyIcedTea
-  reactants:
-    Honey:
-      amount: 1
-    IcedTea:
-      amount: 1
-  products:
-    HoneyIcedTea: 2
-
-- type: reaction
-  id: WassailMulledAle
-  minTemp: 350
-  reactants:
-    Ale:
-      amount: 1
-    Sugar:
-      amount: 1
-    JuiceApple:
-      amount: 1
-    Everyspice:
-      amount: 1
-  products:
-    WassailMulledAle : 4
-
-- type: reaction
-  id: Eggnog
-  requiredMixerCategories:
-  - Shake # close enough to meringue?
-  reactants:
-    Sugar:
-      amount: 1
-    Cream:
-      amount: 1
-    Egg:
-      amount: 1
-    Rum:
-      amount: 1
-  products:
-    Eggnog: 4

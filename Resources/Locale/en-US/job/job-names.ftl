@@ -103,7 +103,7 @@ JobMime = Mime
 JobMusician = Musician
 JobParamedic = Paramedic
 # Frontier: Passenger<Contractor
-JobPassenger = Contractor
+JobPassenger = Resident
 JobPsychologist = Psychologist
 JobQuartermaster = Quartermaster
 JobReporter = Reporter

@@ -20,7 +20,13 @@ public sealed partial class RadioStaticComponent : Component
     /// The prototype of the soundpack that will be played when a radio message is received.
     /// </summary>
     [DataField("baseSoundpack")]
-    public ProtoId<RadioStaticPrototype> SoundPack = "RadioStaticSoundPackDefault";
+    public ProtoId<RadioStaticPrototype> SoundPack = "RadioStaticDefault";
+
+    /// <summary>
+    /// if the radio has been intentionally genericised, use this soundpack instead.
+    /// </summary>
+    [DataField("genericSoundpack")]
+    public ProtoId<RadioStaticPrototype> GenericSoundPack = "RadioStaticGeneric";
 
     /// <summary>
     /// The prototypes for the various departments

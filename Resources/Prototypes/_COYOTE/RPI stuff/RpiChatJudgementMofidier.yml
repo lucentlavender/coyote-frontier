@@ -19,6 +19,16 @@
     Radio: 1.0
 
 - type: rpiChatJudgementModifier
+  id: rpiChatJudgementModifierCompanion
+  modifiers:
+    Speaking: 2.0
+    Whispering: 2.0
+    Emoting: 2.0
+    QuickEmoting: 2.0
+    Subtling: 2.5
+    Radio: 1.5
+
+- type: rpiChatJudgementModifier
   id: rpiChatJudgementModifierMassageChaplain
   modifiers:
     Speaking: 2.0

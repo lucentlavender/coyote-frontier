@@ -1,4 +1,4 @@
-job-supervisors-centcom = Central Command
+job-supervisors-centcom = the people of Nash
 job-supervisors-captain = the Captain
 job-supervisors-hop = the Head of Personnel
 job-supervisors-hos = the Head of Security
@@ -11,5 +11,5 @@ job-supervisors-engineering = Station Engineers, Atmospheric Technicians, and th
 job-supervisors-medicine = Medical Doctors, Paramedics, Chemists, and the Chief Medical Officer
 job-supervisors-security = Security Officers, the Warden, and the Head of Security
 job-supervisors-science = Scientists and the Research Director
-job-supervisors-hire = whoever hires you
+job-supervisors-hire = society as a whole
 job-supervisors-everyone = absolutely everyone

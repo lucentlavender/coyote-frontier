@@ -236,22 +236,47 @@ public sealed class RadioDeviceSystem : EntitySystem
             return;
 
         var nameEv = new TransformSpeakerNameEvent(args.MessageSource, Name(args.MessageSource));
-        RaiseLocalEvent(args.MessageSource, nameEv);
-        var staticEv = new RadioReceivedEvent(
+        MsgChatMessage chatMess = _radio.MangleRadioMessage(
+            uid,
+            ref args,
+            out RadioDegradationParams dParams);
+
+        if (dParams.DropMessageEntirely)
+            return;
+        // do the KSSHHT
+        var staticEv = new DoRadioStaticEvent(
             uid,
             args.MessageSource,
             null,
             args.Channel.ID,
-            args.Message
-            );
+            args.Message,
+            dParams);
         RaiseLocalEvent(uid, ref staticEv);
+        if (dParams.DropMessage)
+            return;
 
-        var name = Loc.GetString("speech-name-relay",
+        RaiseLocalEvent(args.MessageSource, nameEv);
+        var origName = dParams is { GenerifyName: true, NameOverride: not null }
+            ? dParams.NameOverride
+            : nameEv.VoiceName;
+
+        var name = Loc.GetString(
+            "speech-name-relay",
             ("speaker", Name(uid)),
-            ("originalName", nameEv.VoiceName));
+            ("originalName", origName));
+
+        InGameICChatType oct = component.OutputChatType;
+        if (dParams.Whisperfy)
+            oct = InGameICChatType.Whisper;
 
         // log to chat so people can identity the speaker/source, but avoid clogging ghost chat if there are many radios
-        _chat.TrySendInGameICMessage(uid, args.Message, component.OutputChatType, ChatTransmitRange.GhostRangeLimitNoAdminCheck, nameOverride: name, checkRadioPrefix: false); // Frontier: GhostRangeLimit<GhostRangeLimitNoAdminCheck, InGameICChatType.Whisper<component.OutputChatType
+        _chat.TrySendInGameICMessage(
+            uid,
+            chatMess.Message.Message,
+            oct,
+            ChatTransmitRange.GhostRangeLimitNoAdminCheck,
+            nameOverride: name,
+            checkRadioPrefix: false); // Frontier: GhostRangeLimit<GhostRangeLimitNoAdminCheck, InGameICChatType.Whisper<component.OutputChatType
     }
 
     private void OnIntercomEncryptionChannelsChanged(Entity<IntercomComponent> ent, ref EncryptionChannelsChangedEvent args)

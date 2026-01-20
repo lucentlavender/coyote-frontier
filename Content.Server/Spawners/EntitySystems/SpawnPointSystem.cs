@@ -26,6 +26,7 @@ public sealed class SpawnPointSystem : EntitySystem
         // TODO: Cache all this if it ends up important.
         var points = EntityQueryEnumerator<SpawnPointComponent, TransformComponent>();
         var possiblePositions = new List<EntityCoordinates>();
+        var fallbackPositions = new List<EntityCoordinates>();
 
         while ( points.MoveNext(out var uid, out var spawnPoint, out var xform))
         {
@@ -35,15 +36,21 @@ public sealed class SpawnPointSystem : EntitySystem
             // Delta-V: Allow setting a desired SpawnPointType
             if (args.DesiredSpawnPointType != SpawnPointType.Unset)
             {
-                var isMatchingJob = spawnPoint.SpawnType == SpawnPointType.Job &&
-                    (args.Job == null || spawnPoint.Job == args.Job);
+                var isMatchingJob = spawnPoint.SpawnType == SpawnPointType.Job && (args.Job == null || spawnPoint.Job == args.Job);
+                var isMatchingAltJob = spawnPoint.SpawnType == SpawnPointType.Job && (args.Job != null && spawnPoint.AltJobs.Contains(args.Job.Value));
 
                 switch (args.DesiredSpawnPointType)
                 {
                     case SpawnPointType.Job when isMatchingJob:
+                    case SpawnPointType.Job when isMatchingAltJob:
                     case SpawnPointType.LateJoin when spawnPoint.SpawnType == SpawnPointType.LateJoin:
                     case SpawnPointType.Observer when spawnPoint.SpawnType == SpawnPointType.Observer:
-                        possiblePositions.Add(xform.Coordinates);
+                        if (isMatchingJob)
+                            possiblePositions.Add(xform.Coordinates);
+                        else if (isMatchingAltJob)
+                            fallbackPositions.Add(xform.Coordinates);
+                        else
+                            possiblePositions.Add(xform.Coordinates);
                         break;
                     default:
                         continue;
@@ -55,32 +62,49 @@ public sealed class SpawnPointSystem : EntitySystem
                 possiblePositions.Add(xform.Coordinates);
             }
 
-            if (_gameTicker.RunLevel != GameRunLevel.InRound &&
-                spawnPoint.SpawnType == SpawnPointType.Job &&
-                (args.Job == null || spawnPoint.Job == args.Job))
+            if (_gameTicker.RunLevel != GameRunLevel.InRound
+                && spawnPoint.SpawnType == SpawnPointType.Job)
             {
-                possiblePositions.Add(xform.Coordinates);
+                if (args.Job == null || spawnPoint.Job == args.Job)
+                {
+                    possiblePositions.Add(xform.Coordinates);
+                }
+                else if (spawnPoint.AltJobs.Contains(args.Job.Value))
+                {
+                    fallbackPositions.Add(xform.Coordinates);
+                }
             }
         }
 
         if (possiblePositions.Count == 0)
         {
-            // Ok we've still not returned, but we need to put them /somewhere/.
-            // TODO: Refactor gameticker spawning code so we don't have to do this!
-            var points2 = EntityQueryEnumerator<SpawnPointComponent, TransformComponent>();
-
-            if (points2.MoveNext(out var spawnPoint, out var xform))
+            if (fallbackPositions.Count > 0)
             {
-                possiblePositions.Add(xform.Coordinates);
+                possiblePositions.AddRange(fallbackPositions);
             }
             else
             {
-                Log.Error("No spawn points were available!");
-                return;
+                // Ok we've still not returned, but we need to put them /somewhere/.
+                // TODO: Refactor gameticker spawning code so we don't have to do this!
+                var points2 = EntityQueryEnumerator<SpawnPointComponent, TransformComponent>();
+
+                if (points2.MoveNext(out var spawnPoint, out var xform))
+                {
+                    possiblePositions.Add(xform.Coordinates);
+                }
+                else
+                {
+                    Log.Error("No spawn points were available!");
+                    return;
+                }
             }
         }
 
         var spawnLoc = _random.Pick(possiblePositions);
+        if (spawnLoc == null && fallbackPositions.Count > 0)
+        {
+            spawnLoc = _random.Pick(fallbackPositions);
+        }
 
         args.SpawnResult = _stationSpawning.SpawnPlayerMob(
             spawnLoc,

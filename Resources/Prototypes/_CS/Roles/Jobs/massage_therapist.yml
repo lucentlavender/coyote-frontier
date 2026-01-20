@@ -33,6 +33,8 @@
   components:
   - type: SpawnPoint
     job_id: MassageTherapist
+    alt_jobs:
+    - Companion
 
 - type: startingGear
   id: CSMassageTherapistGear

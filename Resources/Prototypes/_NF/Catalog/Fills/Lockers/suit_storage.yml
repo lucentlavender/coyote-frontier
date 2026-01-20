@@ -9,7 +9,7 @@
 - type: entity
   parent: [ SuitStorageBase, StorageFillEVASuitContractor ]
   id: SuitStorageEVAContractor
-  suffix: EVA, Contractor
+  suffix: EVA, Resident
   components:
   - type: AccessReader
 
@@ -81,7 +81,7 @@
 - type: entity
   parent: [ LockerSalvageSpecialistFilled, StorageFillEVASuitSalvage ]
   id: SuitStorageEVASalvageFilled
-  suffix: EVA, Salvage Specialist, Filled  
+  suffix: EVA, Salvage Specialist, Filled
   components:
   - type: AccessReader
 

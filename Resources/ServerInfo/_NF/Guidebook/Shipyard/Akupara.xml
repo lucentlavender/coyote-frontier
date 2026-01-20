@@ -21,14 +21,14 @@
 
   [color=#a4885c]IFF Console:[/color] None
 
-  [color=#a4885c]Available Roles:[/color] Contractor, Pilot, Mercenary
+  [color=#a4885c]Available Roles:[/color] Resident, Pilot, Mercenary
 
   "A medium full-feature botanical research biodome equipped to help a botanist fully interact with their plants in almost any way conceivable."
 
   # PREFLIGHT CHECKLIST
-  
+
   ## 1. Power supply
-  
+
   ## 1.1. Battery units
   <Box>
   <GuideEntityEmbed Entity="SMESBasic"/>
@@ -94,7 +94,7 @@
   - Set the auxiliary network Gas Filter to the waste gas you wish to store.
   - Enable the volumetric gas pump leading into the collection port.
   - Monitor contents of storage canister. Replace storage canister as necessary.
-  
+
    To correct cabin O2-N2 overpressure:
    - Ensure distro O2 and N2 canisters have capacity.
    - Ensure air alarm in overpressured area has Auto mode enabled.

@@ -31,14 +31,14 @@ public sealed class RadioStaticSystem : EntitySystem
     /// <inheritdoc/>
     public override void Initialize()
     {
-        SubscribeLocalEvent<RadioStaticComponent, RadioReceivedEvent>(OnRadioReceive);
+        SubscribeLocalEvent<RadioStaticComponent, DoRadioStaticEvent>(OnRadioReceive);
         SubscribeLocalEvent<RadioStaticComponent, GetVerbsEvent<Verb>>(AddRadioSquelchListVerb);
     }
 
     private void OnRadioReceive(
         EntityUid uid,
         RadioStaticComponent component,
-        RadioReceivedEvent args
+        DoRadioStaticEvent args
     )
     {
         if (IsSquelched(
@@ -57,7 +57,12 @@ public sealed class RadioStaticSystem : EntitySystem
             return;
         }
 
-        if (component.DepartmentSoundPacks.TryGetValue(args.Channel, out var departmentSoundPack))
+        if (args.DegradationParams != null && args.DegradationParams.GenerifyStatic)
+        {
+            // if we are generifying the channel, use the generic one.
+            soundPack = component.GenericSoundPack;
+        }
+        else if (component.DepartmentSoundPacks.TryGetValue(args.Channel, out var departmentSoundPack))
         {
             // is this a valid prototype?
             if (!_prototype.HasIndex(departmentSoundPack))
@@ -385,17 +390,45 @@ public sealed class RadioStaticSystem : EntitySystem
 /// Radio received event!
 /// </summary>
 [ByRefEvent]
-public sealed class RadioReceivedEvent(
+public sealed class DoRadioStaticEvent(
     EntityUid radioUid,
     EntityUid sender,
     EntityUid? receiver,
     string channel,
-    string message)
-    : EntityEventArgs
+    string message,
+    RadioDegradationParams? degradationParams = null
+    ) : EntityEventArgs
 {
     public EntityUid RadioUid = radioUid;
     public EntityUid Sender = sender;
     public EntityUid? Receiver = receiver;
     public string Channel = channel;
     public string Message = message;
+    public RadioDegradationParams? DegradationParams = degradationParams;
+}
+
+
+public sealed class RadioDegradationParams(
+    int wordDropPercentage,
+    int letterDropPercentage,
+    int fontSizeDecrease,
+    bool generifyChannel,
+    bool generifyStatic,
+    bool generifyName,
+    bool dropMessage,
+    bool dropMessageEntirely
+)
+{
+    public float   WordDropPercentage     = wordDropPercentage;
+    public float   LetterDropPercentage   = letterDropPercentage;
+    public int     FontSizeDecrease       = fontSizeDecrease;
+    public bool    GenerifyChannel        = generifyChannel;
+    public bool    GenerifyStatic         = generifyStatic;
+    public bool    GenerifyName           = generifyName;
+    public bool    DropMessage            = dropMessage;
+    public bool    DropMessageEntirely    = dropMessageEntirely;
+    public string? NameOverride           = null;
+    public Color?  ColorOverride          = null;
+    public int?    FontSizeOverride       = null;
+    public bool    Whisperfy              = false;
 }

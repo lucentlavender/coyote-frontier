@@ -180,7 +180,7 @@
   id: UplinkSecurityStunbaton
   name:  uplink-security-stunbaton-name
   description: uplink-security-stunbaton-desc
-  productEntity: SecStunbaton # Coyote: Stunbaton<SecStunbaton
+  productEntity: Stunbaton
   icon: { sprite: Objects/Weapons/Melee/stunbaton.rsi, state: stunbaton_off }
   cost:
     FrontierUplinkCoin: 1

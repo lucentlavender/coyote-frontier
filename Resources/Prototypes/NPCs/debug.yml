@@ -87,3 +87,32 @@
         operator: !type:SpeakOperator
           speech: "*bazingas yuou!"
 
+- type: htnCompound
+  id: DebugChatterboy
+  branches:
+  - tasks:
+    # makes it think of a random number...
+    - !type:HTNPrimitiveTask
+      operator: !type:SetRandomFloatOperator
+        targetKey: Count
+        minAmount: 0
+        maxAmount: 100
+
+    # ...then uses that number to pick from a localization key to say
+    - !type:HTNPrimitiveTask
+      operator: !type:SayLocalizationKeyOperator
+        key: Count
+        localizationKeyPrefix: debug-chatterboy-say-
+
+    - !type:HTNPrimitiveTask
+      operator: !type:RandomOperator
+        targetKey: IdleTime
+        minKey: MinimumIdleTime
+        maxKey: MaximumIdleTime
+
+    - !type:HTNPrimitiveTask
+      operator: !type:WaitOperator
+        key: IdleTime
+      preconditions:
+      - !type:KeyExistsPrecondition
+        key: IdleTime

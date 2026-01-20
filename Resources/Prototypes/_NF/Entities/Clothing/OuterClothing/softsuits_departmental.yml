@@ -193,8 +193,8 @@
 - type: entity
   parent: NFDepartmentalEVASuit
   id: ClothingOuterEVASuitContractor
-  name: contractor EVA suit
-  description: An EVA suit with a built-in helmet commonly issued to contractors.
+  name: resident EVA suit
+  description: An EVA suit with a built-in helmet commonly issued to residents.
   components:
   - type: Sprite
     layers:
