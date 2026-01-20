@@ -710,7 +710,7 @@
     damageContainer: StructuralInorganic
     damageModifierSet: StructuralMetallicStrong
 
-- type: entity
+- type: entity # CS - added by fuzzy_fuzzy
   parent: ComputerComms
   id: SyndicateComputerComms
   name: syndicate communications computer
@@ -739,6 +739,39 @@
     sound: /Audio/Announcements/war.ogg
   - type: Computer
     board: SyndicateCommsComputerCircuitboard
+  - type: PointLight
+    radius: 1.5
+    energy: 1.6
+    color: "#f71713"
+
+- type: entity
+  parent: ComputerComms
+  id: FreelancerComputerComms
+  name: Freelancer communications computer
+  description: A computer made to conveniently broadcast all your plans and shenanigans.
+  components:
+  - type: Sprite
+    layers:
+    - map: ["computerLayerBody"]
+      state: computer
+    - map: ["computerLayerKeyboard"]
+      state: generic_keyboard
+    - map: ["computerLayerScreen"]
+      state: comm_syndie
+    - map: ["computerLayerKeys"]
+      state: syndie_key
+    - map: [ "enum.WiresVisualLayers.MaintenancePanel" ]
+      state: generic_panel_open
+  - type: AccessReader
+    access: [[ "Pirate" ]]
+  - type: CommunicationsConsole
+    title: comms-console-announcement-title-free
+    color: "#ff0000"
+    canShuttle: false
+    canAlert: false
+    global: true
+  - type: Computer
+    board: FreelancerCommsComputerCircuitboard
   - type: PointLight
     radius: 1.5
     energy: 1.6

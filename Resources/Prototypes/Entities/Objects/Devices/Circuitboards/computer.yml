@@ -423,6 +423,19 @@
       prototype: SyndicateComputerTabletopComms # Frontier
 
 - type: entity
+  parent: [ BaseComputerCircuitboard, BaseC3SyndicateContraband ] # Frontier: BaseSyndicateContraband<BaseC3SyndicateContraband
+  id: FreelancerCommsComputerCircuitboard
+  name: freelancer communications computer board
+  description: A computer printed circuit board for a freelancer communications console.
+  components:
+  - type: Sprite
+    state: cpu_syndicate
+  - type: ComputerBoard
+    prototype: FreelancerComputerComms
+  - type: ComputerTabletopBoard # Frontier
+    prototype: FreelancerComputerTabletopComms # Frontier
+
+- type: entity
   parent: [ BaseComputerCircuitboard, BaseC3WizardContraband ] # Frontier: BaseSyndicateContraband<BaseC3WizardContraband
   id: WizardCommsComputerCircuitboard
   name: wizard communications computer board

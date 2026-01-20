@@ -57,6 +57,13 @@ namespace Content.Server.Communications
         public bool CanShuttle = true;
 
         /// <summary>
+        /// Can change the alert level
+        /// </summary>
+        [ViewVariables]
+        [DataField]
+        public bool CanAlert = true;
+
+        /// <summary>
         /// Announce on all grids (for nukies)
         /// </summary>
         [DataField]

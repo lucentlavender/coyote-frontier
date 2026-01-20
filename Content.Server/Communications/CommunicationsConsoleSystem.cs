@@ -215,7 +215,7 @@ namespace Content.Server.Communications
             if (message.Actor is not { Valid: true } mob)
                 return;
 
-            if (!CanUse(mob, uid))
+            if (!CanUse(mob, uid) || !comp.CanAlert)
             {
                 _popupSystem.PopupCursor(Loc.GetString("comms-console-permission-denied"), message.Actor, PopupType.Medium);
                 return;
