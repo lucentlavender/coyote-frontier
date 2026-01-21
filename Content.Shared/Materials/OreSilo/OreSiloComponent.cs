@@ -21,9 +21,10 @@ public sealed partial class OreSiloComponent : Component
     /// </summary>
     /// <remarks>
     /// Default value should be big enough to span a single large department.
+    /// CS - Range property is not relevant, silos are bound per grid
     /// </remarks>
-    [DataField, AutoNetworkedField]
-    public float Range = 20f;
+    // [DataField, AutoNetworkedField]
+    // public float Range = 20f;
 }
 
 [Serializable, NetSerializable]
