@@ -3,11 +3,14 @@ using System.Linq;
 using Content.Server._NF.Station.Components;
 using Content.Server.GameTicking;
 using Content.Server.Station.Components;
+using Content.Server.StationRecords;
+using Content.Server.StationRecords.Systems;
 using Content.Shared.CCVar;
 using Content.Shared.FixedPoint;
 using Content.Shared.GameTicking;
 using Content.Shared.Preferences;
 using Content.Shared.Roles;
+using Content.Shared.StationRecords;
 using JetBrains.Annotations;
 using Robust.Server.Player;
 using Robust.Shared.Configuration;
@@ -28,6 +31,7 @@ public sealed partial class StationJobsSystem : EntitySystem
     [Dependency] private readonly IPlayerManager _player = default!;
     [Dependency] private readonly IRobustRandom _random = default!;
     [Dependency] private readonly GameTicker _gameTicker = default!;
+    [Dependency] private readonly StationRecordsSystem _stationRecords = default!;
 
     /// <inheritdoc/>
     public override void Initialize()
@@ -515,6 +519,11 @@ public sealed partial class StationJobsSystem : EntitySystem
                     vessel: extraVesselInfo.Vessel,
                     hiddenIfNoJobs: extraVesselInfo.HiddenWithoutOpenJobs
                 );
+                if (TryComp<StationRecordsComponent>(station, out var stationRecords))
+                {
+                    Dictionary<uint, string> listing = _stationRecords.BuildListing((station, stationRecords), null);
+                    vesselDisplay.CrewNames = listing;
+                }
             }
             else
             {

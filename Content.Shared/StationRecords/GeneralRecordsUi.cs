@@ -43,16 +43,23 @@ public sealed class GeneralStationRecordConsoleState : BoundUserInterfaceState
     public readonly bool CanDeleteEntries;
     public readonly string? Advertisement; // Frontier
 
-    public GeneralStationRecordConsoleState(uint? key, GeneralStationRecord? record,
-        Dictionary<uint, string>? recordListing, IReadOnlyDictionary<ProtoId<JobPrototype>, int?>? jobList, StationRecordsFilter? newFilter, bool canDeleteEntries, string? advertisement) // Frontier: add jobList, advertisement
+    public GeneralStationRecordConsoleState(
+        uint? key,
+        GeneralStationRecord? record,
+        Dictionary<uint, string>? recordListing,
+        IReadOnlyDictionary<ProtoId<JobPrototype>, int?>? jobList,
+        StationRecordsFilter? newFilter,
+        bool canDeleteEntries,
+        string? advertisement
+        ) // Frontier: add jobList, advertisement
     {
-        SelectedKey = key;
-        Record = record;
-        RecordListing = recordListing;
-        Filter = newFilter;
-        JobList = jobList; // Frontier
+        SelectedKey      = key;
+        Record           = record;
+        RecordListing    = recordListing;
+        Filter           = newFilter;
+        JobList          = jobList; // Frontier
         CanDeleteEntries = canDeleteEntries;
-        Advertisement = advertisement; // Frontier
+        Advertisement    = advertisement; // Frontier
     }
 
     public GeneralStationRecordConsoleState() : this(null, null, null, null, null, false, string.Empty)

@@ -217,10 +217,10 @@ public sealed partial class ShipyardSystem : SharedShipyardSystem
         var deedShuttle = EnsureComp<ShuttleDeedComponent>(shuttleUid);
         AssignShuttleDeedProperties((shuttleUid, deedShuttle), shuttleUid, name, shuttleOwner, voucherUsed);
 
-        if (!voucherUsed && component.NewJobTitle != null)
-        {
-            _idSystem.TryChangeJobTitle(targetId, Loc.GetString(component.NewJobTitle), idCard, player);
-        }
+        // if (!voucherUsed && component.NewJobTitle != null)
+        // {
+        //     _idSystem.TryChangeJobTitle(targetId, Loc.GetString(component.NewJobTitle), idCard, player);
+        // }
 
         // The following block of code is entirely to do with trying to sanely handle moving records from station to station.
         // it is ass.

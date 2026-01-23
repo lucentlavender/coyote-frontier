@@ -16,7 +16,8 @@ public sealed partial class CrewListItem : PanelContainer
         string stationDescription,
         bool selected,
         string? iconPath,
-        ProtoId<VesselPrototype>? vessel)
+        ProtoId<VesselPrototype>? vessel,
+        Dictionary<uint, string>? crew = null)
     {
         public string StationName { get; } = stationName;
         public string StationSubtext { get; } = stationSubtext;
@@ -27,6 +28,7 @@ public sealed partial class CrewListItem : PanelContainer
 
         public string IconPath { get; } = iconPath ?? "";
         public ProtoId<VesselPrototype>? Vessel { get; } = vessel;
+        public Dictionary<uint, string> Crew = crew ?? new();
     }
 
     public CrewListItem(ViewState state)

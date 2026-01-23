@@ -157,7 +157,8 @@ public sealed partial class CrewPickerControl : PickerControl
                     : "",
                 _lastSelectedStation?.StationEntity == stationEntity,
                 "", // No icons currently.
-                stationJobInformation?.VesselDisplayInformation?.Vessel
+                stationJobInformation?.VesselDisplayInformation?.Vessel,
+                stationJobInformation?.VesselDisplayInformation?.CrewNames ?? new Dictionary<uint, string>()
             );
 
             // Always select the first station in the list if none is selected yet.
@@ -206,7 +207,18 @@ public sealed partial class CrewPickerControl : PickerControl
 
             msg.AddMarkupPermissive(Loc.GetString("frontier-lobby-crew-size", ("size", Loc.GetString($"shipyard-console-category-{proto.Category}"))));
             msg.PushNewline();
+        }
+
+        if (state.Crew.Count > 0)
+        {
+            msg.AddMarkupPermissive(Loc.GetString("frontier-lobby-crew-current-crew"));
             msg.PushNewline();
+
+            foreach (var crewMember in state.Crew.Values)
+            {
+                msg.AddMarkupPermissive($"• {crewMember}");
+                msg.PushNewline();
+            }
         }
 
         if (state.StationDescription != null)
@@ -215,6 +227,7 @@ public sealed partial class CrewPickerControl : PickerControl
             msg.PushNewline();
             msg.AddMarkupPermissive(state.StationDescription);
         }
+
 
         return msg;
     }

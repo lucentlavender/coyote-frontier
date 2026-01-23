@@ -200,6 +200,7 @@ namespace Content.Shared.GameTicking
         bool hiddenIfNoJobs
         )
     {
+        public Dictionary<uint, string> CrewNames = new(); // Frontier addition
         public string VesselAdvertisement { get; } = vesselAdvertisement;
         public ProtoId<VesselPrototype>? Vessel { get; } = vessel;
         public bool HiddenIfNoJobs { get; } = hiddenIfNoJobs;
