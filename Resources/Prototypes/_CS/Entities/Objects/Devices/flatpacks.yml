@@ -101,7 +101,7 @@
       map: ["enum.FlatpackVisualLayers.Overlay"]
     - state: icon-default
   - type: Flatpack
-    entity: SyndicateMicrowave
+    entity: DonkcoKitchenAssembler
   - type: StaticPrice
     price: 1000
     vendPrice: 10000
